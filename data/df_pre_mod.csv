@@ -1,0 +1,940 @@
+trade_id,user_id,conf_date,leg_1_type,leg_1_amount,leg_1_conf_status,leg_2_type,leg_2_amount,leg_2_conf_status
+641OKk454dVpm,960tveyimat,2022-01-03,Ethereum Classic,124.19,pending,Illuvium,Unknown,pending
+998INa6jZZi1V,960tveyimat,2022-03-23,IOTA,67.69,pending,Neo,Unknown,pending
+534VKk0D7QNdU,960tveyimat,2022-06-03,Ethereum Classic,14.55,pending,LINK,Unknown,pending
+598BTRM9KS4F3,960tveyimat,2022-04-28,Solana,51.43,confirmed,Neo,Unknown,confirmed
+746XtaP7aPos5,960tveyimat,2022-02-05,IOTA,112.02,pending,Avalanche,Unknown,pending
+951pI9ro3He8h,960tveyimat,2022-03-09,Solana,106.25,confirmed,Gnosis,Unknown,confirmed
+722dR606ZODjM,960tveyimat,2022-03-12,Bitcoin SV,4.17,confirmed,LINK,Unknown,pending
+743zDUfH7e9Ke,960tveyimat,2022-06-25,LINK,123.27,confirmed,GateToken,Unknown,confirmed
+501NG46ShQpv9,960tveyimat,2022-05-13,GateToken,55.31,confirmed,Monero,Unknown,confirmed
+9747I4IEPCpMw,960tveyimat,2022-02-25,Illuvium,20.26,confirmed,GMX,Unknown,confirmed
+757L23srNWwe4,960tveyimat,2022-01-13,Illuvium,112.89,confirmed,Gnosis,Unknown,confirmed
+658Wb9cCAtsmm,960tveyimat,2022-06-03,Kusama,127.41,confirmed,GMX,Unknown,confirmed
+858H1nXsKpiXb,960tveyimat,2022-01-16,Avalanche,139.31,confirmed,Gnosis,Unknown,confirmed
+461Ie373fSRch,960tveyimat,2022-04-12,Avalanche,120.05,confirmed,Illuvium,Unknown,pending
+829Px5YIuDW0J,960tveyimat,2022-03-02,IOTA,95.56,confirmed,GMX,Unknown,confirmed
+664CjNWLlFHqQ,952asidmzdy,2022-05-12,Neo,66.99,confirmed,Monero,Unknown,confirmed
+547jbqQeyq1JU,952asidmzdy,2022-05-19,Avalanche,39.14,confirmed,Solana,Unknown,confirmed
+8160tcigtf216,952asidmzdy,2022-06-25,Litecoin,96.6,confirmed,Solana,Unknown,confirmed
+802jklEsy1rOM,952asidmzdy,2022-01-02,Ethereum Classic,55.38,confirmed,LINK,Unknown,confirmed
+907VCjObw4Hch,952asidmzdy,2022-01-09,LINK,44.25,confirmed,Gnosis,Unknown,confirmed
+976dzUcz2fZfK,952asidmzdy,2022-03-20,LINK,147.91,pending,GMX,Unknown,pending
+964hK6sZDCO2q,952asidmzdy,2022-05-28,GateToken,21.73,confirmed,Bitcoin SV,Unknown,confirmed
+6754eEqHgwN4S,720tilvuyoo,2022-06-18,Bitcoin SV,42.66,confirmed,Compound,Unknown,confirmed
+709QuzIX2SL02,720tilvuyoo,2022-02-07,Solana,4.62,confirmed,GateToken,Unknown,confirmed
+655c2MDR23tWM,720tilvuyoo,2022-04-30,Illuvium,25.16,confirmed,GateToken,Unknown,confirmed
+469BbhTVWX9ee,720tilvuyoo,2022-06-25,Solana,81.66,confirmed,GateToken,Unknown,confirmed
+736bh77YuMTxo,720tilvuyoo,2022-04-29,IOTA,32.74,confirmed,Monero,Unknown,confirmed
+633LYKWtaNSdd,720tilvuyoo,2022-06-01,Kusama,81.6,confirmed,Avalanche,Unknown,confirmed
+803VAs3rgqKnL,839tzyhktjg,2022-06-07,IOTA,139.84,confirmed,GMX,Unknown,confirmed
+862s9pvHfrL6G,839tzyhktjg,2022-05-17,Illuvium,39.77,confirmed,Ethereum Classic,Unknown,confirmed
+727QIrFxvFCMJ,839tzyhktjg,2022-03-09,LINK,184.28,confirmed,GateToken,Unknown,declined
+972axLZaHFL0i,839tzyhktjg,2022-05-05,Gnosis,86.87,confirmed,Monero,Unknown,confirmed
+688VY0hdpgNfN,839tzyhktjg,2022-03-25,GateToken,76.82,confirmed,Compound,Unknown,confirmed
+999eYFcbBpW1A,839tzyhktjg,2022-06-23,GMX,26.9,confirmed,Compound,Unknown,confirmed
+581b0jQ7gV925,638rbowpgry,2022-02-03,Compound,63.71,pending,Bitcoin SV,Unknown,pending
+612CvjrzdUYqj,638rbowpgry,2022-05-01,LINK,171.85,confirmed,Kusama,Unknown,confirmed
+8222V5yjeiuoX,638rbowpgry,2022-06-22,Litecoin,112.31,declined,Bitcoin SV,Unknown,declined
+477buhedx07sU,638rbowpgry,2022-05-23,Illuvium,66.1,confirmed,Gnosis,Unknown,confirmed
+9956e1hihEpwP,638rbowpgry,2022-05-23,Neo,127.14,confirmed,Illuvium,Unknown,confirmed
+833TbVmSagyGf,638rbowpgry,2022-06-02,IOTA,18.48,confirmed,GateToken,Unknown,confirmed
+759P551yC6YA8,638rbowpgry,2022-02-14,Illuvium,87.36,confirmed,IOTA,Unknown,confirmed
+625WAMeAzCeYY,638rbowpgry,2022-05-07,IOTA,31.43,declined,Gnosis,Unknown,declined
+665ffI1bdepYP,638rbowpgry,2022-06-01,GMX,110.61,confirmed,Litecoin,Unknown,confirmed
+949VdfYy1A1Bf,638rbowpgry,2022-03-13,Ethereum Classic,86.62,confirmed,LINK,Unknown,pending
+73617n18e2r2U,628hqhxutcy,2022-04-02,Monero,65.19,confirmed,IOTA,Unknown,confirmed
+550kzSmwaRMok,628hqhxutcy,2022-04-17,Neo,120.01,confirmed,Gnosis,Unknown,confirmed
+777HbVAJwMS97,628hqhxutcy,2022-02-14,Bitcoin SV,49.21,declined,Avalanche,Unknown,declined
+74918owjRhajI,628hqhxutcy,2022-01-20,LINK,91.26,pending,Avalanche,Unknown,pending
+452gdqxmW4cRb,628hqhxutcy,2022-05-23,Neo,69.47,confirmed,IOTA,Unknown,confirmed
+5206WW4s0GYmo,628hqhxutcy,2022-03-20,Compound,44.15,confirmed,LINK,Unknown,confirmed
+579rvDfTi6DEb,628hqhxutcy,2022-01-22,LINK,168.78,confirmed,Monero,Unknown,confirmed
+791FzwERebli1,707ekiuzsii,2022-03-09,Litecoin,71.05,confirmed,Avalanche,Unknown,confirmed
+853viZCmlkegG,398jwwmyvlx,2022-04-03,Neo,21.22,confirmed,IOTA,Unknown,confirmed
+544z0F0nkL2dl,752dwwjvmcd,2022-02-10,Monero,90.89,pending,Neo,Unknown,pending
+572YY8nLMJBBq,536iewewzgs,2022-01-23,Avalanche,63.48,pending,GateToken,Unknown,pending
+872s5v6VmyAc6,536iewewzgs,2022-04-18,Monero,46.72,confirmed,Gnosis,Unknown,confirmed
+772NZsV6ElCE7,536iewewzgs,2022-04-06,GMX,67.96,pending,Avalanche,Unknown,pending
+956tCY4rh8avL,536iewewzgs,2022-02-09,Avalanche,142.77,pending,IOTA,Unknown,pending
+790E2vuEuY7l2,536iewewzgs,2022-01-17,IOTA,97.04,pending,Neo,Unknown,pending
+972LI3PTC5Mc7,536iewewzgs,2022-01-01,Neo,125.53,confirmed,LINK,Unknown,confirmed
+823CLJLbcxcAp,536iewewzgs,2022-06-29,Litecoin,40.7,confirmed,GateToken,Unknown,confirmed
+502h7gRPpEpOA,536iewewzgs,2022-01-09,Avalanche,126.05,confirmed,Monero,Unknown,confirmed
+543WYE0J2ps6f,536iewewzgs,2022-03-31,Monero,47.44,confirmed,Avalanche,Unknown,confirmed
+781ErQMERD1GQ,536iewewzgs,2022-02-24,Bitcoin SV,131.93,confirmed,GateToken,Unknown,confirmed
+797pXD1djTQtJ,536iewewzgs,2022-01-30,Neo,123.3,confirmed,Gnosis,Unknown,confirmed
+896gD1NQyYPXY,536iewewzgs,2022-02-20,GMX,81.12,confirmed,LINK,Unknown,confirmed
+858CKvtiURA64,536iewewzgs,2022-05-01,Litecoin,98.43,confirmed,Illuvium,Unknown,pending
+623zJgGrM2B1r,536iewewzgs,2022-05-24,Gnosis,17.89,pending,Kusama,Unknown,pending
+562eVy8D1FstQ,536iewewzgs,2022-03-31,Avalanche,91.55,confirmed,IOTA,Unknown,confirmed
+769TmM4ibLoJs,536iewewzgs,2022-02-06,LINK,25.62,confirmed,Gnosis,Unknown,confirmed
+705JmD43KT0hF,536iewewzgs,2022-02-23,GMX,16.72,pending,Compound,Unknown,pending
+922X0FyiiyZPO,536iewewzgs,2022-02-09,Litecoin,51.58,pending,Monero,Unknown,pending
+668UEGbyqfN2m,536iewewzgs,2022-05-12,Bitcoin SV,133.73,confirmed,Litecoin,Unknown,confirmed
+656E3rP2Jc91t,461gpgugpkz,2022-04-27,Kusama,73.0,confirmed,Illuvium,Unknown,pending
+636aPCRNIBUgq,412rvonzuic,2022-06-04,Litecoin,12.08,confirmed,IOTA,Unknown,confirmed
+8945b9saivu5M,460oidogrcx,2022-05-16,Bitcoin SV,57.69,confirmed,LINK,Unknown,confirmed
+540OBM4bhdXJB,460oidogrcx,2022-02-26,Illuvium,29.66,confirmed,Solana,Unknown,confirmed
+9490oVQZGqNwT,460oidogrcx,2022-04-30,Illuvium,59.99,confirmed,Solana,Unknown,confirmed
+910V9Pp4JOnwJ,460oidogrcx,2022-06-08,LINK,113.63,confirmed,Compound,Unknown,confirmed
+696HCFGWbJZnH,460oidogrcx,2022-05-30,Solana,124.89,declined,Monero,Unknown,declined
+743LGukEfip5E,460oidogrcx,2022-06-03,Monero,108.97,confirmed,Solana,Unknown,confirmed
+909g6QQFOuNBc,460oidogrcx,2022-03-12,Avalanche,44.91,confirmed,GMX,Unknown,confirmed
+717mJchTFTwOc,460oidogrcx,2022-04-01,Compound,53.69,confirmed,Kusama,Unknown,confirmed
+781CNFt4hEE49,536wgukxykh,2022-01-13,Bitcoin SV,36.02,confirmed,Litecoin,Unknown,confirmed
+804QzZLYKm2qW,603xxnzilig,2022-03-08,LINK,145.32,confirmed,Neo,Unknown,confirmed
+660FqUuxmE4TW,603xxnzilig,2022-01-11,Illuvium,30.31,pending,Solana,Unknown,pending
+6315NgAemRVNL,603xxnzilig,2022-05-11,Kusama,59.7,confirmed,GMX,Unknown,confirmed
+711J8kHqpRwgL,603xxnzilig,2022-01-12,Gnosis,109.61,confirmed,Neo,Unknown,confirmed
+872pWTNSPwNaC,603xxnzilig,2022-01-23,Illuvium,73.42,confirmed,Avalanche,Unknown,confirmed
+9825cxHf1eh1D,934xgairmkd,2022-04-04,Litecoin,68.86,confirmed,Neo,Unknown,confirmed
+659xvmHL2CC5K,934xgairmkd,2022-04-22,Illuvium,85.78,confirmed,GateToken,Unknown,confirmed
+586GYdfsJnb7b,934xgairmkd,2022-06-09,Monero,77.53,confirmed,Avalanche,Unknown,confirmed
+851PHud2NaoPG,934xgairmkd,2022-03-29,Solana,190.06,confirmed,GMX,Unknown,confirmed
+475TMyeftjLCH,934xgairmkd,2022-03-20,IOTA,132.33,confirmed,Litecoin,Unknown,confirmed
+801Zzh25qZPTT,934xgairmkd,2022-01-28,Gnosis,77.25,confirmed,Bitcoin SV,Unknown,confirmed
+922uYyDrkqkaY,934xgairmkd,2022-01-18,GMX,19.78,declined,Kusama,Unknown,declined
+553AtolAEBXNP,934xgairmkd,2022-06-28,Gnosis,31.65,confirmed,Avalanche,Unknown,pending
+8375D62oVJPMP,934xgairmkd,2022-06-04,LINK,49.13,confirmed,GMX,Unknown,declined
+931rIc5TMmo6D,934xgairmkd,2022-05-09,Litecoin,80.26,confirmed,GMX,Unknown,confirmed
+75121b7KYm3oG,934xgairmkd,2022-06-17,Kusama,102.49,confirmed,Gnosis,Unknown,confirmed
+664mghwykuI49,934xgairmkd,2022-04-04,IOTA,128.05,pending,Litecoin,Unknown,pending
+552H0k3pRVKti,934xgairmkd,2022-05-11,Compound,19.08,declined,LINK,Unknown,declined
+453QHgdLMBZQ6,934xgairmkd,2022-01-18,Kusama,85.1,confirmed,GateToken,Unknown,confirmed
+517irLj6GmrN4,934xgairmkd,2022-06-16,Monero,104.23,pending,Ethereum Classic,Unknown,pending
+908kJNe6V7kjH,934xgairmkd,2022-01-14,Avalanche,33.36,confirmed,Neo,Unknown,confirmed
+755zpsK0fvQVY,934xgairmkd,2022-03-25,Illuvium,78.78,confirmed,IOTA,Unknown,confirmed
+639Ilu8mm2wLB,934xgairmkd,2022-03-26,Bitcoin SV,15.33,confirmed,Monero,Unknown,pending
+850p6s5LEKTI7,934xgairmkd,2022-02-08,Avalanche,75.08,confirmed,Monero,Unknown,pending
+591Bz6S1fk3h2,424xezdikxy,2022-03-08,Litecoin,113.57,confirmed,LINK,Unknown,confirmed
+902e6PXuVw6sD,811rbsjbfvi,2022-04-28,Solana,133.22,confirmed,LINK,Unknown,confirmed
+888vXyGspdM8m,811rbsjbfvi,2022-01-12,LINK,70.68,confirmed,Kusama,Unknown,confirmed
+689L66KlJg0oR,811rbsjbfvi,2022-06-18,Litecoin,21.4,confirmed,Bitcoin SV,Unknown,confirmed
+640ellI6YFk7n,811rbsjbfvi,2022-02-04,Litecoin,55.88,confirmed,GateToken,Unknown,confirmed
+91732D1KqpaB1,811rbsjbfvi,2022-06-07,Illuvium,77.16,pending,LINK,Unknown,pending
+6271K0zM1TNhl,811rbsjbfvi,2022-05-07,GateToken,118.36,confirmed,Compound,Unknown,confirmed
+641e9jQCCFbld,811rbsjbfvi,2022-03-12,Monero,38.34,confirmed,Ethereum Classic,Unknown,confirmed
+606HjWaUb6L1J,811rbsjbfvi,2022-05-05,Illuvium,17.42,confirmed,Compound,Unknown,confirmed
+695r6UYISV9vI,811rbsjbfvi,2022-01-04,Avalanche,82.14,confirmed,Gnosis,Unknown,confirmed
+91975knSkemE7,811rbsjbfvi,2022-02-07,Avalanche,19.76,confirmed,Solana,Unknown,confirmed
+869eXLBc9YYCp,811rbsjbfvi,2022-01-16,GateToken,78.78,confirmed,GMX,Unknown,confirmed
+60937oZBGGn8Q,811rbsjbfvi,2022-06-12,GMX,28.76,confirmed,IOTA,Unknown,confirmed
+610lTac6ZBIhi,811rbsjbfvi,2022-05-21,GMX,110.57,confirmed,Gnosis,Unknown,confirmed
+597mXPUG6ayCj,811rbsjbfvi,2022-06-28,Bitcoin SV,73.55,confirmed,LINK,Unknown,confirmed
+461CW3S6ixYb4,811rbsjbfvi,2022-06-03,Monero,80.95,confirmed,Avalanche,Unknown,confirmed
+919u96gSyTofI,811rbsjbfvi,2022-02-23,LINK,77.41,declined,Avalanche,Unknown,declined
+804dhmqrv66Ro,536urvrqoft,2022-05-19,GateToken,141.09,confirmed,Gnosis,Unknown,confirmed
+968REP1XaWeKL,600ezvuyjnl,2022-03-12,GateToken,65.32,confirmed,Avalanche,Unknown,confirmed
+812NJIdiYnNyw,600ezvuyjnl,2022-05-30,Compound,62.01,confirmed,Ethereum Classic,Unknown,confirmed
+900l8zsdGVwBY,600ezvuyjnl,2022-03-08,GateToken,16.14,confirmed,Neo,Unknown,confirmed
+900fH1n0Pq1QG,600ezvuyjnl,2022-06-27,Solana,25.38,declined,GateToken,Unknown,declined
+6503QAsHYLIUG,600ezvuyjnl,2022-05-01,Litecoin,41.06,confirmed,GMX,Unknown,confirmed
+582qhuYeBNeUu,369rbobeabc,2022-04-07,LINK,107.79,confirmed,Solana,Unknown,confirmed
+6998gowEGDu7e,868puxsebzi,2022-03-11,Ethereum Classic,111.96,confirmed,Gnosis,Unknown,confirmed
+905QxSBi3tWAP,868puxsebzi,2022-05-06,Gnosis,47.88,confirmed,Bitcoin SV,Unknown,confirmed
+779tdTZnDztvU,868puxsebzi,2022-05-08,GateToken,109.22,confirmed,Bitcoin SV,Unknown,confirmed
+659aPlOxRKM6S,868puxsebzi,2022-03-12,Illuvium,94.04,confirmed,Kusama,Unknown,confirmed
+682YmJeoWekBt,868puxsebzi,2022-06-20,Monero,81.24,confirmed,Ethereum Classic,Unknown,confirmed
+475CqDQe3kGZy,868puxsebzi,2022-06-09,GateToken,44.68,confirmed,Avalanche,Unknown,declined
+652oaGBBMgWLg,868puxsebzi,2022-03-28,IOTA,82.9,confirmed,Neo,Unknown,confirmed
+581dgFvBPnoIJ,868puxsebzi,2022-04-24,Bitcoin SV,12.43,confirmed,Ethereum Classic,Unknown,confirmed
+6859sQHgnsq5l,868puxsebzi,2022-05-21,Solana,197.21,declined,GateToken,Unknown,declined
+941qVvIo4BCJk,966mdphssnz,2022-05-03,IOTA,137.85,confirmed,GMX,Unknown,confirmed
+490DvppPcf8Xp,966mdphssnz,2022-06-11,Neo,128.62,confirmed,Ethereum Classic,Unknown,confirmed
+582Boh2pvcrGJ,966mdphssnz,2022-01-06,Compound,154.86,declined,Solana,Unknown,declined
+445M2gMmzyb76,966mdphssnz,2022-06-20,Neo,38.82,declined,Bitcoin SV,Unknown,declined
+903eXxzSFn4P5,966mdphssnz,2022-03-07,Neo,107.34,confirmed,IOTA,Unknown,pending
+507PRY1iURouj,966mdphssnz,2022-02-24,Neo,115.54,confirmed,Bitcoin SV,Unknown,confirmed
+648Jrt7W2Bl2h,966mdphssnz,2022-04-28,IOTA,43.27,confirmed,Bitcoin SV,Unknown,confirmed
+917dpKyz84hKx,753yffwythk,2022-04-26,Monero,18.01,confirmed,LINK,Unknown,declined
+7972kHXmGhlWg,462klhdigby,2022-05-28,LINK,204.45,confirmed,IOTA,Unknown,confirmed
+7135QiEbsYa1Q,462klhdigby,2022-01-11,GateToken,109.76,confirmed,GMX,Unknown,confirmed
+988gdR527Wmts,462klhdigby,2022-03-22,Ethereum Classic,127.97,confirmed,Bitcoin SV,Unknown,confirmed
+824oiPFQIyuOD,462klhdigby,2022-05-16,Bitcoin SV,31.6,confirmed,Litecoin,Unknown,confirmed
+653JEJe64XGRs,462klhdigby,2022-06-18,Avalanche,35.95,confirmed,Litecoin,Unknown,confirmed
+581xjZabLGoWE,462klhdigby,2022-05-14,IOTA,37.96,confirmed,Bitcoin SV,Unknown,confirmed
+7600RIMn3VkKV,462klhdigby,2022-04-23,Monero,68.08,confirmed,Kusama,Unknown,confirmed
+599dt0V5rhSea,462klhdigby,2022-04-26,GateToken,9.7,confirmed,GMX,Unknown,confirmed
+887TZnbqU8VZm,473gdcmxmni,2022-01-23,Litecoin,53.93,confirmed,LINK,Unknown,confirmed
+607WbyL8kY3S1,925cspysqyx,2022-05-13,Litecoin,10.97,confirmed,GateToken,Unknown,confirmed
+484Q9PC4qipzf,925cspysqyx,2022-03-11,GateToken,48.25,confirmed,Solana,Unknown,confirmed
+716WxlH58mjKx,925cspysqyx,2022-05-23,Illuvium,78.48,confirmed,Kusama,Unknown,confirmed
+673tXTqHp1Cqx,925cspysqyx,2022-05-22,Kusama,150.21,confirmed,Bitcoin SV,Unknown,confirmed
+583yvim8H6rs4,925cspysqyx,2022-03-16,Neo,114.52,confirmed,IOTA,Unknown,confirmed
+995USppXXl8oz,925cspysqyx,2022-01-20,Solana,19.75,confirmed,Kusama,Unknown,confirmed
+612AfT7Udt7K5,925cspysqyx,2022-04-12,Kusama,151.06,confirmed,Solana,Unknown,confirmed
+712pox79OJq76,925cspysqyx,2022-04-13,Illuvium,24.24,pending,GMX,Unknown,pending
+546YtUcdYhaoe,632xwepiphd,2022-04-23,Compound,135.54,confirmed,Solana,Unknown,confirmed
+736Tuw2T3ppr4,632xwepiphd,2022-01-08,GMX,10.69,confirmed,LINK,Unknown,confirmed
+751UWOcEqqY5I,632xwepiphd,2022-04-17,Bitcoin SV,48.93,confirmed,Gnosis,Unknown,confirmed
+603MfMAABG9wS,632xwepiphd,2022-06-02,Compound,82.37,pending,Monero,Unknown,pending
+622ug2omY2JDP,632xwepiphd,2022-06-24,Solana,127.42,confirmed,Ethereum Classic,Unknown,pending
+695n9D9E8lo4V,632xwepiphd,2022-04-13,GMX,104.24,declined,Illuvium,Unknown,declined
+630uO5qSZTn4E,859eabdrrgb,2022-03-27,Kusama,48.5,confirmed,Monero,Unknown,confirmed
+924u5uFpmfeI6,859eabdrrgb,2022-02-19,Monero,112.16,confirmed,LINK,Unknown,confirmed
+562g3wcW7atuj,859eabdrrgb,2022-03-02,Kusama,51.71,confirmed,Litecoin,Unknown,confirmed
+503jRgi1rjoCe,859eabdrrgb,2022-01-20,LINK,35.12,confirmed,Solana,Unknown,confirmed
+801OLO3GVV55A,859eabdrrgb,2022-02-19,Litecoin,24.21,confirmed,GMX,Unknown,confirmed
+70177wSR6KHlN,859eabdrrgb,2022-05-26,Illuvium,48.88,pending,GateToken,Unknown,pending
+4503phnmYPRnG,859eabdrrgb,2022-01-08,Bitcoin SV,187.78,confirmed,GateToken,Unknown,confirmed
+848wBstXhboKk,859eabdrrgb,2022-03-26,GateToken,27.89,confirmed,GMX,Unknown,confirmed
+637n2n17iuIZG,859eabdrrgb,2022-04-15,Solana,50.94,confirmed,GMX,Unknown,confirmed
+680UznClSQjsm,387tenwizwo,2022-06-20,IOTA,123.1,confirmed,Kusama,Unknown,confirmed
+580qWRcIC9z6T,387tenwizwo,2022-03-07,IOTA,110.23,confirmed,Avalanche,Unknown,confirmed
+5341vxLlZZdQ1,387tenwizwo,2022-06-19,Compound,13.62,confirmed,GateToken,Unknown,confirmed
+511j2AKcfmC72,387tenwizwo,2022-03-16,Avalanche,43.05,confirmed,Solana,Unknown,confirmed
+788RkEUxBwUtb,387tenwizwo,2022-02-23,GMX,65.93,confirmed,Gnosis,Unknown,confirmed
+821mMQZOUzBkP,387tenwizwo,2022-02-23,Litecoin,90.9,confirmed,LINK,Unknown,pending
+933cqDRm0sAZT,387tenwizwo,2022-02-24,Neo,25.83,confirmed,Bitcoin SV,Unknown,pending
+727iMkWxxoqQ6,387tenwizwo,2022-03-07,Solana,139.05,confirmed,LINK,Unknown,confirmed
+571hn6nGwxvFg,387tenwizwo,2022-05-27,Ethereum Classic,41.49,confirmed,Litecoin,Unknown,confirmed
+507935MXBDs0u,387tenwizwo,2022-06-04,Monero,46.22,confirmed,Litecoin,Unknown,confirmed
+950cvRT2Ze1WE,387tenwizwo,2022-02-16,Litecoin,57.24,confirmed,Gnosis,Unknown,confirmed
+657oNHGZMB17E,387tenwizwo,2022-05-30,GMX,79.99,confirmed,Neo,Unknown,confirmed
+752UyqZLiDJoF,387tenwizwo,2022-04-25,Litecoin,71.62,confirmed,Avalanche,Unknown,confirmed
+752zvJFortYHj,387tenwizwo,2022-05-11,GMX,44.75,confirmed,Illuvium,Unknown,confirmed
+897zanvQ1bbcy,957aqylxxkn,2022-03-07,GMX,55.67,confirmed,Ethereum Classic,Unknown,confirmed
+8773eadFugc3d,648iutvwwei,2022-06-24,Avalanche,86.6,confirmed,Kusama,Unknown,confirmed
+495OVmEYyXJjA,648iutvwwei,2022-03-14,LINK,189.18,confirmed,Ethereum Classic,Unknown,confirmed
+543aTa55s5Vxa,648iutvwwei,2022-06-18,Avalanche,58.38,confirmed,Solana,Unknown,confirmed
+9605zxTyZHqaF,648iutvwwei,2022-01-14,Ethereum Classic,31.38,confirmed,GateToken,Unknown,confirmed
+512SDkVcILEy2,648iutvwwei,2022-01-16,Solana,15.3,confirmed,Neo,Unknown,confirmed
+704j3DL9nCptZ,648iutvwwei,2022-01-07,Ethereum Classic,17.93,confirmed,Kusama,Unknown,confirmed
+5355z8ufdCeWJ,648iutvwwei,2022-03-28,Gnosis,93.22,pending,Ethereum Classic,Unknown,pending
+725VbXHO90zmf,648iutvwwei,2022-03-22,IOTA,8.76,pending,Compound,Unknown,pending
+822hzWxqAodSx,711nffgtzbl,2022-01-18,Neo,75.62,pending,GateToken,Unknown,pending
+609mT0eQ5wZyb,711nffgtzbl,2022-03-28,Monero,46.93,confirmed,Litecoin,Unknown,confirmed
+485wrlGqyxaa7,711nffgtzbl,2022-04-17,Bitcoin SV,103.83,confirmed,Gnosis,Unknown,confirmed
+721oxR6pRohv5,711nffgtzbl,2022-03-29,Compound,152.11,confirmed,Neo,Unknown,confirmed
+697uYhVk2J3ub,711nffgtzbl,2022-01-05,Compound,42.82,confirmed,Kusama,Unknown,confirmed
+784TeQiwDlMrL,711nffgtzbl,2022-01-08,Gnosis,106.54,confirmed,Illuvium,Unknown,confirmed
+953zQCuMC1uuH,711nffgtzbl,2022-05-11,Bitcoin SV,121.29,pending,Ethereum Classic,Unknown,pending
+477bPTDMxPLSt,711nffgtzbl,2022-02-03,Solana,129.76,confirmed,GateToken,Unknown,confirmed
+596HfXeE3zVfd,711nffgtzbl,2022-04-19,Compound,148.55,confirmed,Bitcoin SV,Unknown,confirmed
+801lKx6ZVg9Qg,711nffgtzbl,2022-03-21,Litecoin,28.32,confirmed,Kusama,Unknown,confirmed
+464Hwjm1ADeza,711nffgtzbl,2022-04-11,LINK,150.61,confirmed,Gnosis,Unknown,confirmed
+641Gktjxlc5LE,711nffgtzbl,2022-02-07,Gnosis,110.28,confirmed,Monero,Unknown,confirmed
+468hGcgzDBl3g,711nffgtzbl,2022-03-19,LINK,47.49,confirmed,Litecoin,Unknown,confirmed
+956G7XeXhddAz,711nffgtzbl,2022-04-01,Compound,34.94,confirmed,GMX,Unknown,confirmed
+912P7NSwSgQHb,711nffgtzbl,2022-03-08,GateToken,45.0,confirmed,Gnosis,Unknown,confirmed
+5584GNyxDyLO1,511hgxcnvzf,2022-06-12,Gnosis,47.4,pending,Monero,Unknown,pending
+664BH59bGdOOC,568fmkwustu,2022-03-07,Monero,46.28,confirmed,Ethereum Classic,Unknown,confirmed
+508flhEdAo0AW,568fmkwustu,2022-03-08,Avalanche,110.68,confirmed,IOTA,Unknown,confirmed
+922EBNp4PhiXB,568fmkwustu,2022-03-28,Avalanche,115.11,confirmed,Gnosis,Unknown,confirmed
+7675dfPO7713H,568fmkwustu,2022-02-22,Monero,61.09,confirmed,LINK,Unknown,confirmed
+937h2VEuDtiMO,568fmkwustu,2022-04-09,Monero,104.12,confirmed,Litecoin,Unknown,confirmed
+613PY9DWYRyBd,568fmkwustu,2022-01-18,Avalanche,8.8,confirmed,Illuvium,Unknown,confirmed
+485GeiqmOBOBC,975ekhlicrw,2022-01-13,Litecoin,42.96,confirmed,Illuvium,Unknown,confirmed
+773INz4SnAhqo,975ekhlicrw,2022-03-29,GateToken,60.01,confirmed,Avalanche,Unknown,confirmed
+740u57Fx1GRjL,975ekhlicrw,2022-06-28,IOTA,52.47,confirmed,Litecoin,Unknown,confirmed
+6365NznENDKxB,975ekhlicrw,2022-06-29,Ethereum Classic,64.89,confirmed,Litecoin,Unknown,confirmed
+84619Jx9JNeI4,975ekhlicrw,2022-01-25,Solana,38.75,pending,Bitcoin SV,Unknown,pending
+972lgPJsGACQX,975ekhlicrw,2022-05-20,Solana,7.73,declined,Compound,Unknown,declined
+602VzMLx78EB5,975ekhlicrw,2022-01-09,Illuvium,20.96,pending,Kusama,Unknown,pending
+950UANaPjwT3G,975ekhlicrw,2022-02-21,Neo,128.42,confirmed,Ethereum Classic,Unknown,pending
+6678MRN6OBjCv,975ekhlicrw,2022-04-01,Neo,60.09,pending,Ethereum Classic,Unknown,pending
+457OG3ifKZZ34,913iobielci,2022-06-25,Gnosis,98.31,confirmed,Bitcoin SV,Unknown,confirmed
+6625J5ccCds2J,344hdgdbizu,2022-03-27,Kusama,151.05,confirmed,Illuvium,Unknown,confirmed
+7271Z0WxMPwDD,344hdgdbizu,2022-06-16,Illuvium,30.39,confirmed,LINK,Unknown,confirmed
+457Y6HeN46Vxf,344hdgdbizu,2022-02-17,Kusama,105.77,confirmed,Illuvium,Unknown,confirmed
+971uzubSf1NRN,344hdgdbizu,2022-06-17,Neo,117.95,confirmed,LINK,Unknown,confirmed
+830FI82blbyTG,344hdgdbizu,2022-04-21,Neo,113.08,confirmed,Avalanche,Unknown,confirmed
+672MxBQc2r5qr,344hdgdbizu,2022-03-10,Avalanche,110.29,confirmed,GMX,Unknown,confirmed
+856zS9ii2lg3U,344hdgdbizu,2022-05-01,Gnosis,44.17,confirmed,Illuvium,Unknown,confirmed
+806FQuMmX5Uni,344hdgdbizu,2022-06-20,LINK,118.06,confirmed,Solana,Unknown,confirmed
+977t06PgRvSTb,344hdgdbizu,2022-06-27,Bitcoin SV,121.06,confirmed,Gnosis,Unknown,confirmed
+448JErZvkB1jf,344hdgdbizu,2022-02-08,Monero,31.31,confirmed,Solana,Unknown,confirmed
+678yTyuXFCaYf,344hdgdbizu,2022-01-18,Compound,194.52,confirmed,LINK,Unknown,confirmed
+7642ubtw1hy2r,344hdgdbizu,2022-01-17,Compound,168.14,confirmed,Monero,Unknown,confirmed
+766AwPyAGkFkm,344hdgdbizu,2022-03-06,Gnosis,108.16,confirmed,Avalanche,Unknown,confirmed
+4609Z2cNTMZgz,344hdgdbizu,2022-01-21,Neo,141.88,confirmed,Litecoin,Unknown,confirmed
+553nqxIMIeyZF,561vqzrnjen,2022-02-15,Monero,26.86,confirmed,LINK,Unknown,confirmed
+689d36CUJPnSz,575bimdduor,2022-01-01,GateToken,106.83,confirmed,LINK,Unknown,confirmed
+8139Em1qasPGi,575bimdduor,2022-03-19,LINK,37.27,confirmed,Kusama,Unknown,confirmed
+8447Q0CsWgAif,575bimdduor,2022-05-25,Illuvium,99.74,confirmed,Monero,Unknown,confirmed
+767nHymhrZfpF,575bimdduor,2022-01-26,Solana,13.2,confirmed,IOTA,Unknown,confirmed
+521erCT3Y5S00,575bimdduor,2022-01-26,Solana,60.12,declined,IOTA,Unknown,declined
+575qOLFDaEL1H,575bimdduor,2022-06-03,Compound,185.53,confirmed,Bitcoin SV,Unknown,confirmed
+5835oe4w7E9Bu,575bimdduor,2022-02-21,Compound,81.71,confirmed,Avalanche,Unknown,confirmed
+526nbUrNrFI8a,575bimdduor,2022-01-08,Avalanche,42.18,pending,Illuvium,Unknown,pending
+647ksndlvewx6,575bimdduor,2022-06-25,Avalanche,38.34,confirmed,Solana,Unknown,confirmed
+861ZEll469ALY,575bimdduor,2022-01-14,Ethereum Classic,30.03,confirmed,Bitcoin SV,Unknown,confirmed
+541FiDkPCoUQn,575bimdduor,2022-01-04,Solana,4.39,confirmed,Neo,Unknown,pending
+934X5HQy5XHYt,575bimdduor,2022-02-15,Bitcoin SV,33.25,confirmed,Solana,Unknown,confirmed
+829ZI19ZJwhCX,575bimdduor,2022-03-26,Ethereum Classic,60.25,pending,Monero,Unknown,pending
+978KprsjI1Rup,575bimdduor,2022-05-01,GateToken,18.43,confirmed,Bitcoin SV,Unknown,confirmed
+593oJvNDIicLQ,575bimdduor,2022-06-15,Compound,170.54,confirmed,Litecoin,Unknown,confirmed
+7310l2tiRAG6D,575bimdduor,2022-05-03,Ethereum Classic,50.45,confirmed,GateToken,Unknown,confirmed
+531F743O4VgzV,575bimdduor,2022-04-23,LINK,5.77,confirmed,Ethereum Classic,Unknown,confirmed
+992C2s3OzkUQr,575bimdduor,2022-03-28,Monero,81.89,confirmed,GateToken,Unknown,confirmed
+554PR5MXgo3Xq,438xndfpklm,2022-06-24,Gnosis,18.85,confirmed,Bitcoin SV,Unknown,confirmed
+982xb8rASS3x0,863nhxtvsqp,2022-06-24,Solana,79.9,confirmed,GMX,Unknown,confirmed
+988Pe63VCEAzt,863nhxtvsqp,2022-06-16,Illuvium,64.49,confirmed,GMX,Unknown,confirmed
+957ZoP1nVUP7F,863nhxtvsqp,2022-03-05,Monero,30.06,pending,LINK,Unknown,pending
+736gob5hIQOpk,863nhxtvsqp,2022-06-08,GateToken,140.27,confirmed,Avalanche,Unknown,confirmed
+568uWdixlwYru,863nhxtvsqp,2022-05-27,Kusama,7.12,confirmed,Ethereum Classic,Unknown,confirmed
+602cwth7hSWdg,863nhxtvsqp,2022-06-24,Illuvium,14.22,confirmed,IOTA,Unknown,confirmed
+829COguuOuzWR,863nhxtvsqp,2022-06-02,IOTA,53.54,confirmed,LINK,Unknown,declined
+64522P1Z8TbN2,863nhxtvsqp,2022-05-01,Illuvium,25.04,confirmed,Compound,Unknown,confirmed
+670CLIirU96Zz,863nhxtvsqp,2022-06-25,GMX,35.33,confirmed,GateToken,Unknown,confirmed
+808eFIfwV41rr,863nhxtvsqp,2022-03-19,Kusama,28.99,confirmed,Bitcoin SV,Unknown,confirmed
+830rFtS04lHO0,863nhxtvsqp,2022-01-27,Gnosis,70.54,confirmed,Litecoin,Unknown,confirmed
+945EeBESCpjCb,863nhxtvsqp,2022-06-23,Bitcoin SV,123.0,confirmed,Illuvium,Unknown,confirmed
+632gsPU7zcBRz,863nhxtvsqp,2022-02-01,Bitcoin SV,74.73,confirmed,Avalanche,Unknown,confirmed
+796oUAC3hb6dH,863nhxtvsqp,2022-06-04,Neo,36.71,confirmed,LINK,Unknown,confirmed
+7010ui3PJ3puH,863nhxtvsqp,2022-01-28,GateToken,40.91,confirmed,Kusama,Unknown,confirmed
+881qgVGCl9Jcv,863nhxtvsqp,2022-06-29,Solana,190.86,confirmed,Compound,Unknown,confirmed
+7791hM59MzsLp,863nhxtvsqp,2022-06-11,Illuvium,47.59,pending,Bitcoin SV,Unknown,pending
+7027lWYwK7DM4,370wmuwszmb,2022-05-04,LINK,31.07,pending,Solana,Unknown,pending
+679KnsBjLU995,391wfvodplj,2022-06-27,IOTA,44.8,confirmed,Gnosis,Unknown,confirmed
+947rMFvMi94BG,391wfvodplj,2022-01-31,Solana,203.82,confirmed,Ethereum Classic,Unknown,confirmed
+8999W6dsCOwjY,391wfvodplj,2022-05-06,Compound,174.79,confirmed,Neo,Unknown,confirmed
+498PGtl2TiIWC,391wfvodplj,2022-03-22,Compound,171.18,confirmed,Kusama,Unknown,confirmed
+706xMlBTIKHqv,391wfvodplj,2022-05-15,Monero,42.02,confirmed,Bitcoin SV,Unknown,confirmed
+883JG8gDhNAIS,391wfvodplj,2022-05-05,Bitcoin SV,34.21,confirmed,Kusama,Unknown,confirmed
+923RHbggE41w6,391wfvodplj,2022-01-09,Litecoin,54.26,confirmed,Illuvium,Unknown,confirmed
+763akFQ8D62OA,391wfvodplj,2022-06-25,IOTA,51.76,confirmed,GMX,Unknown,pending
+8378j94PtApjx,391wfvodplj,2022-01-24,Ethereum Classic,69.38,confirmed,Neo,Unknown,confirmed
+7281koBRA1aft,915hjjwzzbo,2022-06-29,LINK,74.48,confirmed,Compound,Unknown,confirmed
+8927jGs1cYTXy,915hjjwzzbo,2022-01-20,Illuvium,42.48,pending,IOTA,Unknown,pending
+912xjEVGR1ZXF,915hjjwzzbo,2022-02-10,LINK,113.06,confirmed,Gnosis,Unknown,confirmed
+891HcRrmO0dvo,915hjjwzzbo,2022-04-28,Solana,171.17,confirmed,Gnosis,Unknown,pending
+7290IYkfzPryw,915hjjwzzbo,2022-05-12,Solana,92.56,confirmed,Gnosis,Unknown,confirmed
+8318MmHJl2JBU,369lbwukzay,2022-06-07,Neo,30.39,confirmed,Gnosis,Unknown,confirmed
+768bJEFZCz7in,488ewlbpqam,2022-04-03,Monero,55.11,confirmed,Illuvium,Unknown,pending
+581e7Q5YnRms8,546hbhffaay,2022-02-06,Avalanche,33.84,confirmed,GMX,Unknown,confirmed
+851CWJmXF7Rj2,910nbwsrpgf,2022-02-05,Illuvium,43.69,confirmed,Ethereum Classic,Unknown,confirmed
+809eh4yWn0EYj,910nbwsrpgf,2022-03-21,Bitcoin SV,120.36,confirmed,LINK,Unknown,confirmed
+8456U8pon5E3G,910nbwsrpgf,2022-05-16,Compound,169.91,confirmed,GateToken,Unknown,pending
+607uJ8UTLisIg,910nbwsrpgf,2022-05-24,IOTA,60.19,confirmed,GateToken,Unknown,confirmed
+855EwhvpaQGeH,910nbwsrpgf,2022-03-22,Illuvium,79.11,confirmed,Litecoin,Unknown,confirmed
+784DlidB03kI3,910nbwsrpgf,2022-02-01,Litecoin,38.6,confirmed,Neo,Unknown,confirmed
+783PhmHhiM83Y,910nbwsrpgf,2022-06-16,IOTA,28.75,confirmed,Kusama,Unknown,confirmed
+5524RHh0JAF8S,910nbwsrpgf,2022-04-27,Kusama,190.82,confirmed,Monero,Unknown,confirmed
+596UZUctug4Zr,910nbwsrpgf,2022-06-26,Solana,79.3,confirmed,IOTA,Unknown,confirmed
+905BOzFe07N4B,672znofkrhu,2022-06-24,Gnosis,99.4,confirmed,Illuvium,Unknown,declined
+5772OQWTMat5e,672znofkrhu,2022-05-05,Illuvium,66.24,confirmed,Kusama,Unknown,confirmed
+815dJHis6j89J,672znofkrhu,2022-06-06,Avalanche,34.66,confirmed,Solana,Unknown,confirmed
+539ONX8T3fiW4,672znofkrhu,2022-01-11,Ethereum Classic,11.92,confirmed,Gnosis,Unknown,confirmed
+795tH62or0Nhz,672znofkrhu,2022-03-16,Illuvium,8.92,confirmed,Ethereum Classic,Unknown,pending
+986PosG7oN8v2,672znofkrhu,2022-03-29,Litecoin,34.38,confirmed,GateToken,Unknown,confirmed
+986FQGFhZ7ABe,672znofkrhu,2022-03-19,Litecoin,27.66,confirmed,Avalanche,Unknown,pending
+537bJvzaZwMjj,543rhwgylkd,2022-06-06,GMX,107.68,confirmed,Ethereum Classic,Unknown,confirmed
+8947KrjIbqw0j,596bfpzgdlo,2022-06-10,IOTA,49.64,confirmed,Ethereum Classic,Unknown,confirmed
+957ZOOcsWcfvH,596bfpzgdlo,2022-05-03,LINK,55.91,confirmed,Illuvium,Unknown,confirmed
+916mv5m6LKRod,596bfpzgdlo,2022-05-07,Monero,54.75,confirmed,Solana,Unknown,pending
+968IVMdj6iFFE,596bfpzgdlo,2022-04-20,Bitcoin SV,61.81,confirmed,LINK,Unknown,confirmed
+959Osa4y03rGS,596bfpzgdlo,2022-03-13,Illuvium,113.26,confirmed,Monero,Unknown,confirmed
+593NYyfQX1h3m,596bfpzgdlo,2022-04-02,Solana,96.86,confirmed,IOTA,Unknown,confirmed
+444IEKg0SbWi7,596bfpzgdlo,2022-04-30,Illuvium,22.75,confirmed,GateToken,Unknown,confirmed
+757FHoTGVfA3R,596bfpzgdlo,2022-06-24,Bitcoin SV,185.51,declined,Compound,Unknown,declined
+978ywJZN5gS0H,596bfpzgdlo,2022-06-20,Illuvium,112.21,confirmed,GateToken,Unknown,confirmed
+632BStmyJEmiB,596bfpzgdlo,2022-01-31,Compound,19.24,confirmed,Litecoin,Unknown,confirmed
+4874wqZbV7M52,596bfpzgdlo,2022-01-30,GateToken,95.59,confirmed,Solana,Unknown,confirmed
+556aLHI9eGFGc,596bfpzgdlo,2022-02-15,IOTA,112.5,confirmed,Ethereum Classic,Unknown,confirmed
+674NzgbQTDb4P,596bfpzgdlo,2022-04-27,Avalanche,11.03,pending,IOTA,Unknown,pending
+467yTRNAneUVG,596bfpzgdlo,2022-04-05,Monero,17.76,confirmed,Bitcoin SV,Unknown,confirmed
+750HvuDArdL0V,596bfpzgdlo,2022-05-18,GMX,38.47,confirmed,Compound,Unknown,confirmed
+998jIHa1TL6it,522zxpmgbrn,2022-02-07,Litecoin,45.46,confirmed,Compound,Unknown,confirmed
+5311YFGmdKmhF,522zxpmgbrn,2022-06-29,GMX,63.44,confirmed,IOTA,Unknown,confirmed
+874xzoruP1Gle,522zxpmgbrn,2022-03-30,Neo,29.42,confirmed,Solana,Unknown,confirmed
+817InAh8mizow,522zxpmgbrn,2022-01-10,GMX,64.11,confirmed,Bitcoin SV,Unknown,pending
+668qrkGO50JEM,522zxpmgbrn,2022-05-14,Solana,172.56,confirmed,Ethereum Classic,Unknown,confirmed
+950NHLeaTdaJZ,522zxpmgbrn,2022-04-20,Neo,42.23,confirmed,Solana,Unknown,confirmed
+687jLmxlPNlZX,522zxpmgbrn,2022-04-24,Ethereum Classic,16.02,confirmed,GMX,Unknown,confirmed
+530YPnuYOKu5A,522zxpmgbrn,2022-06-23,GateToken,20.55,confirmed,GMX,Unknown,confirmed
+723zxbhQX9Pzi,522zxpmgbrn,2022-02-25,Ethereum Classic,27.12,confirmed,Gnosis,Unknown,confirmed
+745xrE7BrCyQy,522zxpmgbrn,2022-02-13,GMX,81.28,confirmed,Avalanche,Unknown,confirmed
+717vPQL7qPfn9,522zxpmgbrn,2022-01-15,Kusama,39.84,confirmed,Ethereum Classic,Unknown,confirmed
+747NVLdEjDshp,522zxpmgbrn,2022-05-15,Gnosis,91.01,confirmed,Avalanche,Unknown,confirmed
+8844PNNlYNwsf,922sqypirwr,2022-04-13,IOTA,56.9,confirmed,Kusama,Unknown,pending
+809JchYwfDEBl,922sqypirwr,2022-01-01,Litecoin,31.88,confirmed,Monero,Unknown,pending
+592T0PIFVkEuW,922sqypirwr,2022-01-14,Litecoin,113.16,confirmed,Avalanche,Unknown,confirmed
+755LBPiXyAGTV,922sqypirwr,2022-05-24,Solana,50.62,confirmed,GMX,Unknown,confirmed
+507xDpoGgoCVW,922sqypirwr,2022-03-08,Monero,9.56,pending,Neo,Unknown,pending
+9914JQmCdkf2s,922sqypirwr,2022-05-28,GateToken,113.48,pending,Avalanche,Unknown,pending
+5442rDIPGTJoJ,922sqypirwr,2022-03-17,IOTA,136.25,confirmed,Neo,Unknown,pending
+913vOCKHqDTZI,922sqypirwr,2022-03-28,IOTA,41.24,confirmed,Solana,Unknown,confirmed
+663FjoAFthLG4,922sqypirwr,2022-01-29,Avalanche,144.95,confirmed,IOTA,Unknown,confirmed
+692l8KrePTvhy,922sqypirwr,2022-05-21,Kusama,34.19,pending,Neo,Unknown,pending
+946dnguGYV3ov,922sqypirwr,2022-05-07,LINK,87.77,confirmed,Monero,Unknown,confirmed
+909pGCN2q0l0Z,922sqypirwr,2022-01-31,Solana,41.68,confirmed,Neo,Unknown,confirmed
+907TxjT82fW0U,922sqypirwr,2022-02-05,Litecoin,45.55,confirmed,GMX,Unknown,confirmed
+979yyzFSOiXmN,650cjixuvud,2022-05-28,Bitcoin SV,44.37,confirmed,Solana,Unknown,confirmed
+485E1vkbAEGVT,650cjixuvud,2022-01-04,GMX,22.45,confirmed,IOTA,Unknown,confirmed
+862LBkJ7Y4Maz,650cjixuvud,2022-03-16,Gnosis,95.12,confirmed,Illuvium,Unknown,confirmed
+9922KsddxOSgw,650cjixuvud,2022-05-04,GMX,86.14,confirmed,Kusama,Unknown,confirmed
+944odVMA2bydh,650cjixuvud,2022-03-02,Avalanche,94.26,confirmed,Monero,Unknown,confirmed
+522q05CPcRqeB,462mobcsdtc,2022-06-15,IOTA,85.48,confirmed,Avalanche,Unknown,pending
+455oMNVErmOVQ,462mobcsdtc,2022-06-29,IOTA,99.44,confirmed,Ethereum Classic,Unknown,confirmed
+9217SulwqGzKk,462mobcsdtc,2022-01-26,GateToken,24.31,confirmed,Illuvium,Unknown,confirmed
+446V216dILS0G,462mobcsdtc,2022-04-29,Illuvium,39.31,confirmed,Monero,Unknown,confirmed
+638PTX4ce2Cyo,462mobcsdtc,2022-05-03,Monero,41.95,confirmed,Solana,Unknown,declined
+842ACWFuOH2mX,462mobcsdtc,2022-05-23,Solana,53.73,confirmed,Compound,Unknown,confirmed
+711ukY6kPNd9O,462mobcsdtc,2022-05-16,Neo,92.71,confirmed,Gnosis,Unknown,confirmed
+526nEeQU9z76T,462mobcsdtc,2022-05-29,Litecoin,18.7,confirmed,GateToken,Unknown,confirmed
+729cwBi6b0aCV,462mobcsdtc,2022-05-23,Ethereum Classic,51.1,confirmed,Compound,Unknown,confirmed
+9760jhfcNhyna,462mobcsdtc,2022-01-10,Bitcoin SV,115.67,confirmed,Monero,Unknown,confirmed
+6364QFHuIkBsj,462mobcsdtc,2022-01-02,IOTA,57.81,confirmed,Gnosis,Unknown,confirmed
+473VuQnZkxpDD,462mobcsdtc,2022-05-18,Illuvium,79.46,confirmed,LINK,Unknown,confirmed
+592vn3Y1AiKtP,462mobcsdtc,2022-01-30,Gnosis,96.99,confirmed,Neo,Unknown,confirmed
+761m7MSx5lyWf,462mobcsdtc,2022-03-07,Litecoin,18.73,confirmed,Gnosis,Unknown,pending
+993xo2uNISOrr,462mobcsdtc,2022-04-16,Illuvium,54.62,confirmed,Kusama,Unknown,pending
+587j34RYxw6wc,462mobcsdtc,2022-03-15,Illuvium,56.02,confirmed,Gnosis,Unknown,confirmed
+998zfxnDNYxkZ,462mobcsdtc,2022-03-12,Compound,145.9,confirmed,Litecoin,Unknown,confirmed
+727eVJwbGI8Nw,462mobcsdtc,2022-01-21,GMX,77.79,pending,Illuvium,Unknown,pending
+9130dqUUfhoHL,462mobcsdtc,2022-02-06,Monero,94.29,confirmed,GMX,Unknown,confirmed
+872RlfUodSuO5,462mobcsdtc,2022-05-12,Avalanche,93.89,confirmed,GMX,Unknown,confirmed
+6685HZAKvD8M6,587yyawlpmv,2022-03-26,Bitcoin SV,179.24,confirmed,GateToken,Unknown,confirmed
+995ABToaYIUzC,587yyawlpmv,2022-06-11,Ethereum Classic,45.01,confirmed,GateToken,Unknown,confirmed
+475fQdAzJtECn,587yyawlpmv,2022-04-29,LINK,89.24,confirmed,Monero,Unknown,confirmed
+968o5PeoNharA,587yyawlpmv,2022-02-06,Kusama,40.81,pending,Monero,Unknown,pending
+577vRQ2nNijko,587yyawlpmv,2022-04-26,Ethereum Classic,53.82,confirmed,Solana,Unknown,confirmed
+507sHz07vLZ55,587yyawlpmv,2022-03-12,Litecoin,16.54,confirmed,Ethereum Classic,Unknown,confirmed
+8853jkGh6SW1P,587yyawlpmv,2022-01-14,GMX,100.79,confirmed,Bitcoin SV,Unknown,pending
+445VeiwvRWRML,587yyawlpmv,2022-04-19,Monero,45.88,confirmed,Ethereum Classic,Unknown,confirmed
+6376exNwRacP2,587yyawlpmv,2022-06-20,Avalanche,102.23,confirmed,Kusama,Unknown,confirmed
+854tbmcX2zAur,486rjorznat,2022-06-24,IOTA,42.52,confirmed,Kusama,Unknown,confirmed
+734iT1jCFd2FT,486rjorznat,2022-01-13,GMX,79.05,confirmed,GateToken,Unknown,pending
+6640FX5ErNWrI,486rjorznat,2022-02-05,Compound,55.39,confirmed,GateToken,Unknown,confirmed
+656IX14XqB54W,486rjorznat,2022-05-12,LINK,150.26,confirmed,Ethereum Classic,Unknown,confirmed
+968Y0mE9Djh3f,486rjorznat,2022-01-22,Solana,122.96,confirmed,Gnosis,Unknown,confirmed
+734hYhn0lUjHC,603fhukfybz,2022-01-25,Illuvium,54.94,confirmed,Litecoin,Unknown,confirmed
+747IxYO3ubycp,411vzhupryw,2022-06-22,Neo,32.71,confirmed,Solana,Unknown,confirmed
+636CcZVg0SeEw,425qejrcfeh,2022-05-21,LINK,68.52,confirmed,IOTA,Unknown,confirmed
+931U2V6SrA5Kx,854txmcwohu,2022-03-24,Gnosis,97.48,confirmed,GateToken,Unknown,confirmed
+448g71UzeCead,854txmcwohu,2022-02-25,Monero,54.97,confirmed,Gnosis,Unknown,confirmed
+818P6fTXhhz1X,854txmcwohu,2022-01-27,LINK,90.91,confirmed,Illuvium,Unknown,confirmed
+717m5iS6p4pYZ,854txmcwohu,2022-04-25,Bitcoin SV,20.53,confirmed,Monero,Unknown,confirmed
+829rb0OVfKK62,854txmcwohu,2022-01-31,GMX,7.07,confirmed,Solana,Unknown,confirmed
+869OUs3Bjs10F,854txmcwohu,2022-03-01,Compound,135.33,pending,Avalanche,Unknown,pending
+646hqa0qW2iZe,854txmcwohu,2022-04-15,Kusama,27.64,confirmed,LINK,Unknown,confirmed
+594PY12CHtRue,854txmcwohu,2022-06-17,Solana,147.17,confirmed,Monero,Unknown,declined
+814OZCgYwOImp,854txmcwohu,2022-05-11,Litecoin,80.41,confirmed,Bitcoin SV,Unknown,confirmed
+799OfkvlInvGT,854txmcwohu,2022-01-14,Litecoin,54.02,confirmed,Compound,Unknown,confirmed
+9741N7dhAPZnr,927exrikuwy,2022-01-18,Solana,180.76,confirmed,Compound,Unknown,confirmed
+880reDIqBZ83q,999zvoghmbl,2022-03-11,Gnosis,19.81,confirmed,Monero,Unknown,confirmed
+702jhlT4EcRE8,889fpysvnem,2022-04-19,Monero,43.83,confirmed,Neo,Unknown,confirmed
+457W74vC12Kc6,889fpysvnem,2022-05-25,Compound,174.58,confirmed,Ethereum Classic,Unknown,confirmed
+554YCGQADjUNh,889fpysvnem,2022-01-22,Bitcoin SV,70.21,confirmed,Avalanche,Unknown,declined
+592woqOwD5DxC,889fpysvnem,2022-06-22,Monero,82.57,confirmed,Neo,Unknown,confirmed
+474zmHmMkdNyU,889fpysvnem,2022-06-22,Solana,81.9,pending,IOTA,Unknown,pending
+574QMRveF94el,889fpysvnem,2022-05-04,Solana,110.28,confirmed,Ethereum Classic,Unknown,confirmed
+807bcVwN0LFhu,889fpysvnem,2022-02-24,Gnosis,12.17,confirmed,Kusama,Unknown,confirmed
+690yLZXQNJXbv,923xuezhtyi,2022-03-08,LINK,145.37,confirmed,Avalanche,Unknown,confirmed
+472DytOFxsmO6,923xuezhtyi,2022-05-03,Litecoin,51.73,confirmed,LINK,Unknown,confirmed
+529LgAPjY05cM,923xuezhtyi,2022-05-24,Bitcoin SV,7.12,confirmed,Compound,Unknown,confirmed
+57623xY2ae3mR,923xuezhtyi,2022-06-22,Litecoin,59.77,confirmed,Illuvium,Unknown,declined
+526KNp6gEfvdc,923xuezhtyi,2022-05-06,Gnosis,58.62,confirmed,Ethereum Classic,Unknown,confirmed
+554sKZyonvkyn,923xuezhtyi,2022-04-03,Gnosis,53.76,confirmed,Compound,Unknown,confirmed
+897Wf1Yr7Bvih,923xuezhtyi,2022-06-19,Neo,19.63,confirmed,LINK,Unknown,confirmed
+551N7qzq8bzxs,923xuezhtyi,2022-01-09,Kusama,77.15,confirmed,Monero,Unknown,pending
+713XJw2B6EIiM,923xuezhtyi,2022-01-15,Illuvium,21.66,confirmed,GMX,Unknown,confirmed
+594qk0qgvocsg,923xuezhtyi,2022-05-14,IOTA,37.61,confirmed,GateToken,Unknown,confirmed
+694PxGdyIWFOr,923xuezhtyi,2022-03-27,IOTA,110.72,confirmed,Kusama,Unknown,confirmed
+978tAilXXDl1E,923xuezhtyi,2022-04-09,LINK,17.18,confirmed,Ethereum Classic,Unknown,confirmed
+5358yBWBCCnCH,923xuezhtyi,2022-04-29,GateToken,83.02,confirmed,Ethereum Classic,Unknown,pending
+828au86OS66kI,923xuezhtyi,2022-03-29,GateToken,81.34,pending,Ethereum Classic,Unknown,pending
+5457vWp4qH5rN,923xuezhtyi,2022-03-10,Litecoin,13.08,confirmed,Solana,Unknown,confirmed
+806O0NarSs2CF,923xuezhtyi,2022-01-09,Compound,126.27,pending,Gnosis,Unknown,pending
+921WmOixxUGHP,506xflbybqs,2022-01-27,Compound,11.63,confirmed,Avalanche,Unknown,confirmed
+505U4e1y8EKgV,506xflbybqs,2022-04-16,GMX,15.78,confirmed,Compound,Unknown,confirmed
+606dHjXEPaWRT,506xflbybqs,2022-06-04,Compound,81.88,confirmed,Illuvium,Unknown,confirmed
+635xuNYbzdCKR,506xflbybqs,2022-02-08,Bitcoin SV,177.63,confirmed,Avalanche,Unknown,confirmed
+656VVzrr1JYSp,506xflbybqs,2022-05-31,Bitcoin SV,77.98,confirmed,Kusama,Unknown,pending
+987M8AySi0KJZ,506xflbybqs,2022-04-15,Ethereum Classic,103.54,confirmed,Neo,Unknown,confirmed
+716jXufG2UBDK,506xflbybqs,2022-03-07,Kusama,158.28,confirmed,GMX,Unknown,confirmed
+718L7s2yYeeAu,506xflbybqs,2022-05-22,Avalanche,21.63,declined,Ethereum Classic,Unknown,declined
+957yNWT0wEAUl,506xflbybqs,2022-06-28,Bitcoin SV,151.12,pending,Illuvium,Unknown,pending
+541gWP91O5pbD,506xflbybqs,2022-01-23,LINK,91.9,confirmed,Solana,Unknown,declined
+493N7dpIsSPZS,506xflbybqs,2022-06-25,Solana,142.21,confirmed,Kusama,Unknown,pending
+727d8FGUA1jCi,506xflbybqs,2022-01-17,Neo,14.36,confirmed,GMX,Unknown,confirmed
+7338pf9J5UBtB,506xflbybqs,2022-04-26,LINK,110.13,confirmed,Monero,Unknown,confirmed
+51480o1zdE3yJ,506xflbybqs,2022-06-23,Kusama,170.74,confirmed,Gnosis,Unknown,pending
+545tZNZTZ8Nkn,674nxcbwstn,2022-05-13,Gnosis,87.72,confirmed,LINK,Unknown,confirmed
+557EcIC3OZkOo,977iztqidne,2022-05-25,GMX,39.02,confirmed,IOTA,Unknown,confirmed
+997Saj69vUnd9,977iztqidne,2022-06-03,LINK,92.91,confirmed,Gnosis,Unknown,declined
+596ZCYsh3HlPK,977iztqidne,2022-04-07,Kusama,195.74,confirmed,Avalanche,Unknown,confirmed
+493FsQE5Idhdy,977iztqidne,2022-05-08,Bitcoin SV,69.37,confirmed,Neo,Unknown,confirmed
+5651Dqh9LkFyW,977iztqidne,2022-03-10,Illuvium,61.33,confirmed,GMX,Unknown,confirmed
+745ixea3KHHx0,977iztqidne,2022-05-11,GMX,70.93,confirmed,Solana,Unknown,confirmed
+837kjcdM2JzMv,977iztqidne,2022-05-06,Solana,123.41,confirmed,Monero,Unknown,confirmed
+801tdnu1rCMfn,550oagjzagf,2022-04-06,Avalanche,133.72,confirmed,Compound,Unknown,confirmed
+664sb4UQbl3bB,550oagjzagf,2022-04-24,Neo,54.31,confirmed,Compound,Unknown,confirmed
+883CxhQRnlRRn,550oagjzagf,2022-06-26,Compound,85.32,confirmed,Neo,Unknown,confirmed
+684knQXvgFoAl,550oagjzagf,2022-01-22,Illuvium,76.92,confirmed,LINK,Unknown,confirmed
+546RIGvhcjzq9,550oagjzagf,2022-01-02,Gnosis,91.86,confirmed,Kusama,Unknown,confirmed
+99783zQ3ccfIZ,550oagjzagf,2022-04-02,Ethereum Classic,128.63,confirmed,IOTA,Unknown,confirmed
+950s4BcViZp3b,550oagjzagf,2022-03-27,Avalanche,87.22,confirmed,IOTA,Unknown,confirmed
+730ZmVCYXMtWS,550oagjzagf,2022-05-25,Monero,60.85,confirmed,GateToken,Unknown,confirmed
+7284ngxE0ZCLL,550oagjzagf,2022-01-16,Compound,79.94,confirmed,Gnosis,Unknown,confirmed
+839oCxnIprKQL,550oagjzagf,2022-05-15,Monero,85.71,confirmed,Avalanche,Unknown,confirmed
+855ABypLEB9hZ,550oagjzagf,2022-05-08,LINK,49.48,confirmed,Bitcoin SV,Unknown,confirmed
+772Zxaf2sIpir,550oagjzagf,2022-05-21,Illuvium,80.24,confirmed,Solana,Unknown,confirmed
+654CXKjKPoSWO,550oagjzagf,2022-05-28,GMX,113.48,confirmed,Ethereum Classic,Unknown,confirmed
+592OwjwGachMI,550oagjzagf,2022-01-08,Kusama,195.09,pending,Compound,Unknown,pending
+816leVddR75g2,550oagjzagf,2022-04-28,Ethereum Classic,110.48,confirmed,Avalanche,Unknown,confirmed
+471TPS60FlQ7S,471arcdofjb,2022-01-20,LINK,33.41,confirmed,Compound,Unknown,confirmed
+999cleMmujNf2,503ffbcdmca,2022-03-27,GateToken,56.07,confirmed,Compound,Unknown,confirmed
+6495pakvUbRnh,986syqazbks,2022-03-21,Litecoin,101.18,confirmed,Solana,Unknown,confirmed
+964DpYwFq5ktq,967yvridgxs,2022-01-01,Solana,138.56,confirmed,Avalanche,Unknown,confirmed
+649FyDCgLeZom,627vpxipoca,2022-06-01,GMX,27.86,confirmed,GateToken,Unknown,confirmed
+631SmRfvNAgZ2,627vpxipoca,2022-06-13,Gnosis,13.43,confirmed,GateToken,Unknown,confirmed
+594MtGoJXzIsP,627vpxipoca,2022-01-31,Gnosis,103.05,confirmed,Kusama,Unknown,confirmed
+7609CahoDwU1w,627vpxipoca,2022-03-19,GMX,33.59,confirmed,Bitcoin SV,Unknown,confirmed
+944TiOUTvJn2A,627vpxipoca,2022-05-11,Solana,17.75,pending,LINK,Unknown,pending
+677cQsjJoNtll,627vpxipoca,2022-04-30,Neo,123.34,confirmed,GateToken,Unknown,confirmed
+7272zFJRpxfCj,627vpxipoca,2022-03-15,Gnosis,101.01,confirmed,Monero,Unknown,confirmed
+887bSDeIHwpJx,627vpxipoca,2022-05-22,Illuvium,14.07,confirmed,Kusama,Unknown,pending
+992hPtVetgezq,627vpxipoca,2022-06-07,Compound,11.06,confirmed,Kusama,Unknown,confirmed
+629CqKs3jPyYh,627vpxipoca,2022-02-08,GMX,87.93,confirmed,Neo,Unknown,confirmed
+826WsljPNQTU3,627vpxipoca,2022-04-16,Illuvium,55.79,confirmed,Monero,Unknown,confirmed
+555J8bwC7hcVS,627vpxipoca,2022-01-20,Illuvium,37.69,confirmed,Gnosis,Unknown,confirmed
+723t5gp0kMTZc,627vpxipoca,2022-04-05,Litecoin,93.29,confirmed,GateToken,Unknown,declined
+5576R5YfxCYQt,627vpxipoca,2022-03-13,Gnosis,96.95,confirmed,Litecoin,Unknown,confirmed
+677IPHIQ7LPqy,627vpxipoca,2022-01-23,GMX,10.63,pending,Litecoin,Unknown,pending
+984P5SpVN8t3w,627vpxipoca,2022-02-09,Kusama,201.73,confirmed,Litecoin,Unknown,confirmed
+703A5QeAYRyJu,627vpxipoca,2022-03-16,Monero,19.99,confirmed,Illuvium,Unknown,confirmed
+706L8Rz02JQKe,379fwvbbzhw,2022-06-06,Monero,21.4,confirmed,Bitcoin SV,Unknown,confirmed
+815CSrE72YEj9,379fwvbbzhw,2022-02-03,GateToken,53.62,confirmed,Ethereum Classic,Unknown,confirmed
+667mUxu6YOaBc,379fwvbbzhw,2022-02-19,GateToken,52.26,confirmed,IOTA,Unknown,confirmed
+788xibLJ0B7gc,379fwvbbzhw,2022-05-26,Compound,198.96,pending,IOTA,Unknown,pending
+621RyLrm67jrf,379fwvbbzhw,2022-03-03,Avalanche,67.84,pending,Kusama,Unknown,pending
+605Cg2RC9xG7q,638qkzzubkl,2022-04-10,GateToken,72.5,confirmed,Compound,Unknown,confirmed
+944OjI7UQzgd3,638qkzzubkl,2022-03-03,Litecoin,25.77,confirmed,Gnosis,Unknown,confirmed
+5789WCudDiRnc,638qkzzubkl,2022-06-14,GateToken,137.69,confirmed,Avalanche,Unknown,pending
+893MisYRdfmIi,638qkzzubkl,2022-04-18,Illuvium,5.81,confirmed,Kusama,Unknown,pending
+572VPLiGm3Shr,638qkzzubkl,2022-06-11,Ethereum Classic,37.5,pending,Bitcoin SV,Unknown,pending
+534TQUFY0e6dQ,638qkzzubkl,2022-04-13,Monero,23.62,declined,Solana,Unknown,declined
+742YKsgTFr2kN,638qkzzubkl,2022-05-08,Neo,114.8,confirmed,Solana,Unknown,confirmed
+593AMEFVGq6Rz,638qkzzubkl,2022-04-26,LINK,167.1,confirmed,GMX,Unknown,pending
+674PRSTjpz1HG,638qkzzubkl,2022-01-09,Avalanche,85.74,confirmed,Gnosis,Unknown,confirmed
+517oAO996LGAz,638qkzzubkl,2022-02-18,LINK,164.85,confirmed,Monero,Unknown,pending
+717k3yzUQV5J1,638qkzzubkl,2022-05-30,Solana,113.09,confirmed,Bitcoin SV,Unknown,confirmed
+740CK50pckGa5,638qkzzubkl,2022-03-27,Bitcoin SV,106.13,confirmed,IOTA,Unknown,confirmed
+535cUxYBAlZ6n,638qkzzubkl,2022-03-10,Illuvium,104.8,pending,Kusama,Unknown,pending
+72250eN8gftau,638qkzzubkl,2022-03-23,LINK,47.44,confirmed,GMX,Unknown,confirmed
+685mAxsLLdxXN,989jdkfzhvz,2022-02-18,GateToken,53.54,confirmed,Avalanche,Unknown,confirmed
+861QG22H4ibt5,989jdkfzhvz,2022-06-21,Bitcoin SV,172.49,confirmed,IOTA,Unknown,confirmed
+455uqIvt63xR9,989jdkfzhvz,2022-01-08,IOTA,109.27,confirmed,Compound,Unknown,confirmed
+572YFRCqMC1un,989jdkfzhvz,2022-03-13,Bitcoin SV,86.23,confirmed,Compound,Unknown,confirmed
+8010gChzmN6P1,989jdkfzhvz,2022-03-16,GMX,38.87,confirmed,Litecoin,Unknown,pending
+810V6EDwkmigQ,989jdkfzhvz,2022-06-17,Monero,10.55,confirmed,Neo,Unknown,declined
+482DawfpwnbKl,989jdkfzhvz,2022-01-06,IOTA,20.05,confirmed,GateToken,Unknown,confirmed
+631pOnG5CNXxK,989jdkfzhvz,2022-04-21,IOTA,71.9,confirmed,Avalanche,Unknown,confirmed
+6904e0F4nJLwY,989jdkfzhvz,2022-02-04,Monero,68.27,confirmed,Avalanche,Unknown,confirmed
+592Gj6q7WXYUF,989jdkfzhvz,2022-01-25,Kusama,190.41,confirmed,LINK,Unknown,confirmed
+995oi9XqpAnv3,989jdkfzhvz,2022-01-27,Illuvium,36.02,declined,GateToken,Unknown,declined
+8778dGdtj3rls,989jdkfzhvz,2022-04-19,Solana,3.14,confirmed,Compound,Unknown,confirmed
+521RJ1B4AJy7l,989jdkfzhvz,2022-05-25,Ethereum Classic,123.29,confirmed,Gnosis,Unknown,confirmed
+7943UyB9d2WdU,989jdkfzhvz,2022-04-12,Kusama,189.36,confirmed,Illuvium,Unknown,confirmed
+457TYZenyYRc8,989jdkfzhvz,2022-04-22,Compound,72.3,confirmed,GateToken,Unknown,confirmed
+7992XzKWDkzIm,709lcgplfob,2022-04-09,GateToken,75.26,confirmed,Neo,Unknown,confirmed
+8319L5uwiTrhs,709lcgplfob,2022-02-10,GateToken,92.14,confirmed,IOTA,Unknown,confirmed
+825jsJOW9PDyY,709lcgplfob,2022-01-22,Kusama,132.61,confirmed,Ethereum Classic,Unknown,confirmed
+853mKiYmvmUUZ,709lcgplfob,2022-01-04,Gnosis,10.43,pending,IOTA,Unknown,pending
+872MB6NsBbOP7,709lcgplfob,2022-01-28,Solana,61.35,confirmed,Avalanche,Unknown,confirmed
+5471AHPBjICHI,709lcgplfob,2022-02-09,Ethereum Classic,44.41,confirmed,GateToken,Unknown,confirmed
+869zetHxcV0Ok,709lcgplfob,2022-06-21,Monero,27.17,declined,Solana,Unknown,declined
+492SUwOD9vKJn,709lcgplfob,2022-05-11,Gnosis,51.92,confirmed,Avalanche,Unknown,confirmed
+658we0HZOw9T1,709lcgplfob,2022-05-05,Illuvium,19.58,confirmed,Ethereum Classic,Unknown,confirmed
+939lutkXSpQrl,709lcgplfob,2022-04-14,Compound,132.2,confirmed,IOTA,Unknown,pending
+7727XK4kmktcz,709lcgplfob,2022-02-08,GateToken,10.15,confirmed,Gnosis,Unknown,confirmed
+549t9kUoSFPju,709lcgplfob,2022-05-14,Compound,186.22,confirmed,Bitcoin SV,Unknown,confirmed
+5931gj6RcrvZy,709lcgplfob,2022-02-05,IOTA,34.75,confirmed,Solana,Unknown,confirmed
+642ZXLEGUddXv,709lcgplfob,2022-02-05,Bitcoin SV,157.91,confirmed,Solana,Unknown,confirmed
+6118nGMLb2h1K,709lcgplfob,2022-04-01,Ethereum Classic,59.22,confirmed,Kusama,Unknown,confirmed
+623CCwNrv7UaZ,709lcgplfob,2022-04-25,Illuvium,40.37,declined,IOTA,Unknown,declined
+460FFAczi4cjw,709lcgplfob,2022-01-28,Gnosis,79.4,confirmed,LINK,Unknown,confirmed
+745o9YY0Fam8y,709lcgplfob,2022-04-01,Solana,140.95,confirmed,Compound,Unknown,confirmed
+619JsEjYluekL,709lcgplfob,2022-02-20,Solana,129.94,confirmed,IOTA,Unknown,confirmed
+672Gb10oeMmnC,757waalioam,2022-05-23,Litecoin,58.78,confirmed,Kusama,Unknown,confirmed
+981a65FCGzE3F,757waalioam,2022-04-26,Ethereum Classic,48.54,confirmed,Illuvium,Unknown,confirmed
+606JFIuirzppk,757waalioam,2022-04-09,Compound,45.92,confirmed,LINK,Unknown,confirmed
+769CGH9CGDMk0,757waalioam,2022-03-28,Solana,70.71,confirmed,Bitcoin SV,Unknown,confirmed
+965akzOOCmsvq,757waalioam,2022-01-23,GMX,24.54,confirmed,Illuvium,Unknown,confirmed
+612nqNrXFdRqn,757waalioam,2022-02-26,Gnosis,104.77,confirmed,Ethereum Classic,Unknown,confirmed
+678ufUFSZcIaK,757waalioam,2022-05-23,Compound,167.42,pending,Litecoin,Unknown,pending
+942Z3gaMkhpYv,757waalioam,2022-03-22,GMX,64.34,declined,IOTA,Unknown,declined
+465gYlhSUsd1t,757waalioam,2022-03-17,Compound,153.69,pending,Monero,Unknown,pending
+688LIABlQ8q4b,757waalioam,2022-01-10,GMX,82.52,confirmed,Compound,Unknown,confirmed
+467E2vCwbHXGF,757waalioam,2022-03-10,Avalanche,59.62,confirmed,Neo,Unknown,confirmed
+605Tzxdz1LIJu,757waalioam,2022-01-06,Monero,106.92,pending,GateToken,Unknown,pending
+749wRAQSZJMyt,757waalioam,2022-02-27,Ethereum Classic,138.5,pending,LINK,Unknown,pending
+4909ancNHlxym,757waalioam,2022-05-05,IOTA,141.16,declined,GMX,Unknown,declined
+449rtTkIjlh49,757waalioam,2022-05-09,Avalanche,66.62,confirmed,Kusama,Unknown,confirmed
+4776rgq02DhaQ,757waalioam,2022-05-08,Solana,72.17,confirmed,IOTA,Unknown,confirmed
+876aoNcLoVRxA,757waalioam,2022-04-02,Litecoin,112.76,confirmed,GateToken,Unknown,confirmed
+990YsDA55OKqz,864ieotlrjb,2022-06-04,Monero,21.0,confirmed,Neo,Unknown,confirmed
+582NuT4Br84Fe,864ieotlrjb,2022-04-21,Litecoin,80.06,confirmed,IOTA,Unknown,confirmed
+895GAueU6Mbgq,864ieotlrjb,2022-02-06,IOTA,54.6,confirmed,Litecoin,Unknown,pending
+9327GiBNxxsNH,864ieotlrjb,2022-01-25,GMX,46.34,confirmed,Neo,Unknown,confirmed
+7956mruOeBzbn,864ieotlrjb,2022-02-19,Bitcoin SV,158.39,confirmed,Avalanche,Unknown,confirmed
+799V9Za8DOQfe,864ieotlrjb,2022-05-07,Neo,76.29,confirmed,IOTA,Unknown,confirmed
+934HBpi1Pjbhk,864ieotlrjb,2022-01-02,Litecoin,74.45,confirmed,Monero,Unknown,confirmed
+578VPKU5gPPw1,864ieotlrjb,2022-01-21,Neo,64.75,pending,Gnosis,Unknown,pending
+824csCJJZE77p,864ieotlrjb,2022-02-28,Solana,143.1,confirmed,Neo,Unknown,confirmed
+481F8QGu0qTj1,864ieotlrjb,2022-06-06,GMX,60.25,declined,Neo,Unknown,declined
+661xQZNzXBKzL,381vzmjunak,2022-06-16,Litecoin,35.78,pending,IOTA,Unknown,pending
+520V4IvgzCPJe,838infnfmnw,2022-02-02,GMX,45.39,pending,Solana,Unknown,pending
+691xB7rrhyYQ5,978fszvdfvi,2022-01-29,Gnosis,12.97,confirmed,Litecoin,Unknown,confirmed
+795xCA6YAdZcv,714lchgdlsi,2022-02-05,IOTA,123.85,confirmed,Illuvium,Unknown,confirmed
+888EANdLcT0h6,714lchgdlsi,2022-02-12,Bitcoin SV,39.17,confirmed,GMX,Unknown,confirmed
+998aZV0dlrkAh,714lchgdlsi,2022-02-05,Compound,182.15,confirmed,GateToken,Unknown,confirmed
+6701UjOROF4Ow,714lchgdlsi,2022-02-13,LINK,78.81,confirmed,Bitcoin SV,Unknown,confirmed
+784RAwW8rzcCA,714lchgdlsi,2022-01-01,Bitcoin SV,133.37,confirmed,IOTA,Unknown,confirmed
+7775zHQClYMQh,714lchgdlsi,2022-02-04,Ethereum Classic,137.4,confirmed,GateToken,Unknown,confirmed
+579Pz81AmfER8,780jayeqlar,2022-06-26,Kusama,118.49,confirmed,Ethereum Classic,Unknown,confirmed
+799nuZrUL5o11,644dzmabjup,2022-06-27,Neo,131.13,confirmed,Ethereum Classic,Unknown,confirmed
+6415rtu226D0j,644dzmabjup,2022-06-10,Bitcoin SV,99.54,confirmed,GateToken,Unknown,confirmed
+710jEzlKzGNWv,644dzmabjup,2022-02-18,Kusama,27.44,confirmed,Litecoin,Unknown,confirmed
+614E5JUYMt3RE,644dzmabjup,2022-03-27,IOTA,24.59,confirmed,GMX,Unknown,confirmed
+8056ILXYLOwsA,644dzmabjup,2022-01-22,IOTA,120.49,confirmed,Monero,Unknown,confirmed
+822JnFO98SIUy,644dzmabjup,2022-02-02,GateToken,49.08,pending,Kusama,Unknown,pending
+461zPzmbuR89f,644dzmabjup,2022-04-01,Gnosis,38.14,confirmed,Neo,Unknown,confirmed
+7477klNq2CUrt,644dzmabjup,2022-05-11,LINK,139.47,confirmed,Monero,Unknown,confirmed
+4804ubLTEhecp,644dzmabjup,2022-06-28,Bitcoin SV,86.67,confirmed,Litecoin,Unknown,confirmed
+6377AbDnsGBzp,644dzmabjup,2022-01-14,Monero,89.27,confirmed,Bitcoin SV,Unknown,confirmed
+767hsR1LN9I4p,644dzmabjup,2022-04-04,GateToken,64.59,confirmed,Kusama,Unknown,confirmed
+655AL1LPL5Ofc,644dzmabjup,2022-06-13,Bitcoin SV,32.91,confirmed,Gnosis,Unknown,confirmed
+898mUIEJyKFjp,644dzmabjup,2022-04-27,Gnosis,23.04,confirmed,Neo,Unknown,pending
+795ZgrMR9p1BW,644dzmabjup,2022-05-07,Kusama,186.64,confirmed,Neo,Unknown,pending
+833Ov1J1dmEVR,644dzmabjup,2022-04-20,Litecoin,103.18,confirmed,Monero,Unknown,confirmed
+899McgOBc58Lh,644dzmabjup,2022-04-20,IOTA,50.06,confirmed,LINK,Unknown,confirmed
+751RYaPgsmo2O,761nqvxdwrn,2022-01-07,GMX,97.99,confirmed,Solana,Unknown,confirmed
+502E2lQVf0YkU,555rtaqnttj,2022-04-27,GateToken,103.45,confirmed,Ethereum Classic,Unknown,confirmed
+948ESLvyMYupA,555rtaqnttj,2022-03-15,GMX,86.41,confirmed,Monero,Unknown,confirmed
+496ULr2RzZAlX,555rtaqnttj,2022-06-26,Neo,23.89,confirmed,LINK,Unknown,confirmed
+522XH1HiMMq3X,555rtaqnttj,2022-05-14,Compound,169.81,confirmed,GMX,Unknown,confirmed
+808jAb9CAmdrI,555rtaqnttj,2022-04-27,Litecoin,95.8,confirmed,Ethereum Classic,Unknown,confirmed
+667aZ8f2wvXQH,555rtaqnttj,2022-03-17,Litecoin,32.08,confirmed,Compound,Unknown,confirmed
+819NdoiNGetqQ,555rtaqnttj,2022-01-31,Neo,131.55,confirmed,Compound,Unknown,confirmed
+548ZFD3TnmIDZ,555rtaqnttj,2022-03-12,Compound,155.32,confirmed,Litecoin,Unknown,confirmed
+549f4HvRzPxvR,555rtaqnttj,2022-03-25,Ethereum Classic,68.4,confirmed,Monero,Unknown,pending
+592ubABaQbR7t,555rtaqnttj,2022-04-27,Compound,38.48,confirmed,GMX,Unknown,confirmed
+999WabpmL301i,555rtaqnttj,2022-05-24,Kusama,160.83,confirmed,Avalanche,Unknown,pending
+684N41FFm1EjW,555rtaqnttj,2022-03-14,Illuvium,12.91,confirmed,GateToken,Unknown,confirmed
+4506eoGKTijpG,376ksxukyqg,2022-03-31,Avalanche,75.09,confirmed,Gnosis,Unknown,confirmed
+974PaFUzJRhjK,376ksxukyqg,2022-06-09,LINK,121.24,pending,Solana,Unknown,pending
+7780mFsdUl4zA,376ksxukyqg,2022-01-14,Avalanche,82.91,confirmed,Monero,Unknown,pending
+880Dx8hxLyx8o,376ksxukyqg,2022-05-21,GMX,12.26,confirmed,Monero,Unknown,confirmed
+609hYjv0X14R4,376ksxukyqg,2022-02-03,GateToken,104.03,confirmed,Ethereum Classic,Unknown,confirmed
+528T8mg9I0FC5,563ldpeoljy,2022-04-20,IOTA,33.46,confirmed,Bitcoin SV,Unknown,confirmed
+709eGOVAaDUTK,563ldpeoljy,2022-06-23,Kusama,45.26,confirmed,Bitcoin SV,Unknown,confirmed
+998RuFvinWPyv,563ldpeoljy,2022-02-14,Kusama,20.94,confirmed,Solana,Unknown,pending
+738eDBMvqiUag,563ldpeoljy,2022-06-07,Solana,40.45,confirmed,Litecoin,Unknown,confirmed
+991MQsRn8tCIl,563ldpeoljy,2022-03-28,Ethereum Classic,72.56,confirmed,Neo,Unknown,confirmed
+495RItRn3hIPF,563ldpeoljy,2022-06-15,Ethereum Classic,90.25,confirmed,Compound,Unknown,confirmed
+880a3gQOU46oS,492otemydal,2022-05-09,Bitcoin SV,165.39,pending,Compound,Unknown,pending
+469aV92gc3uOR,492otemydal,2022-01-11,IOTA,97.92,pending,Kusama,Unknown,pending
+455Y2KLPTPoBm,492otemydal,2022-03-13,Ethereum Classic,50.38,confirmed,Monero,Unknown,confirmed
+739KKMaLM44T9,492otemydal,2022-04-16,Gnosis,12.49,confirmed,IOTA,Unknown,confirmed
+758EWaiGsh5gs,492otemydal,2022-04-02,Avalanche,115.79,confirmed,Illuvium,Unknown,confirmed
+873TGsKSlOTq8,492otemydal,2022-05-13,Solana,80.78,confirmed,Bitcoin SV,Unknown,confirmed
+722aXQVjwYdQJ,492otemydal,2022-03-14,Litecoin,52.61,pending,Compound,Unknown,pending
+8852kSbFfsO9t,492otemydal,2022-02-19,Gnosis,72.34,confirmed,IOTA,Unknown,confirmed
+527L8EockbMHS,399gorernpu,2022-01-01,GMX,44.12,declined,Avalanche,Unknown,declined
+794PNBqY4a8sL,399gorernpu,2022-03-11,Bitcoin SV,31.14,confirmed,LINK,Unknown,confirmed
+845pEaNp4qQHH,399gorernpu,2022-03-21,Compound,137.59,confirmed,Gnosis,Unknown,confirmed
+686uTO2VgBpL7,399gorernpu,2022-04-04,Ethereum Classic,85.67,confirmed,Avalanche,Unknown,confirmed
+5501Bj9dsqFfH,399gorernpu,2022-03-29,Compound,63.95,confirmed,Neo,Unknown,confirmed
+773JKcvRKwHO4,399gorernpu,2022-01-17,Avalanche,10.14,confirmed,GateToken,Unknown,confirmed
+848yGvDy5j45i,399gorernpu,2022-03-31,Ethereum Classic,59.73,confirmed,Avalanche,Unknown,confirmed
+551mEZDJ264e0,424irlodsex,2022-05-15,Compound,174.61,confirmed,Neo,Unknown,confirmed
+452hxWd1PJ2EZ,377ycsjocos,2022-03-08,Avalanche,79.85,confirmed,GateToken,Unknown,confirmed
+838yw4ZGDZZXf,348bcdkaiun,2022-03-04,Monero,90.69,confirmed,GateToken,Unknown,confirmed
+758Jpz61X2EBg,348bcdkaiun,2022-03-11,Compound,91.05,confirmed,Kusama,Unknown,confirmed
+898cIk2WMdXCc,348bcdkaiun,2022-05-21,Kusama,46.01,confirmed,Gnosis,Unknown,confirmed
+649cjmz0IsE3Y,348bcdkaiun,2022-01-03,LINK,56.06,confirmed,Neo,Unknown,confirmed
+942kHdSa6H5fm,348bcdkaiun,2022-05-13,Litecoin,71.37,confirmed,IOTA,Unknown,confirmed
+5013gQzkJVw7P,348bcdkaiun,2022-05-25,Litecoin,90.75,confirmed,GMX,Unknown,confirmed
+444fgMBOiSeo8,348bcdkaiun,2022-02-08,Monero,25.99,pending,Litecoin,Unknown,pending
+937Oy9qjOy9tS,348bcdkaiun,2022-01-27,Solana,189.12,confirmed,IOTA,Unknown,confirmed
+685gUr0ArBvk0,348bcdkaiun,2022-01-07,IOTA,140.53,confirmed,Monero,Unknown,confirmed
+682b2BxlVcNka,348bcdkaiun,2022-06-05,Ethereum Classic,47.17,confirmed,Illuvium,Unknown,confirmed
+635qPnpnaGx17,348bcdkaiun,2022-02-14,Kusama,129.72,confirmed,Neo,Unknown,confirmed
+681ykoXxEYFYU,348bcdkaiun,2022-05-08,Kusama,15.24,pending,Compound,Unknown,pending
+909FD88RVykzR,348bcdkaiun,2022-04-11,Bitcoin SV,188.83,confirmed,Gnosis,Unknown,confirmed
+696UNpjuRy2r2,348bcdkaiun,2022-03-14,Bitcoin SV,38.51,confirmed,Avalanche,Unknown,confirmed
+649iDHg4Q6srF,348bcdkaiun,2022-03-27,Litecoin,78.33,pending,Neo,Unknown,pending
+694lMQU4IX4RL,348bcdkaiun,2022-05-20,Neo,96.17,confirmed,Litecoin,Unknown,pending
+514difAoQxStw,657bdffhvqf,2022-05-09,Gnosis,47.41,confirmed,Monero,Unknown,confirmed
+586yQFHuG2jfi,865rhemgaao,2022-06-29,Avalanche,30.72,confirmed,GateToken,Unknown,confirmed
+899MBUpmSLI91,865rhemgaao,2022-02-21,GateToken,135.19,confirmed,Gnosis,Unknown,confirmed
+976rcqXlICaeO,865rhemgaao,2022-05-07,LINK,174.8,confirmed,Kusama,Unknown,confirmed
+949OoxZzMV2BF,865rhemgaao,2022-06-14,GateToken,131.52,pending,GMX,Unknown,pending
+852Fru9p7Koge,865rhemgaao,2022-06-29,LINK,198.79,confirmed,Ethereum Classic,Unknown,declined
+929bF6HYdtC4U,865rhemgaao,2022-06-02,Bitcoin SV,103.55,confirmed,Compound,Unknown,confirmed
+585gTiBq3dMHd,865rhemgaao,2022-02-22,Illuvium,11.41,confirmed,Monero,Unknown,confirmed
+460AZezkDgvRF,654rigvdcsn,2022-06-07,Illuvium,89.39,confirmed,Monero,Unknown,confirmed
+864MOcsOCjlNr,654rigvdcsn,2022-02-04,Bitcoin SV,192.5,pending,GMX,Unknown,pending
+922HH81eA69Ml,654rigvdcsn,2022-06-28,Monero,34.45,confirmed,Illuvium,Unknown,confirmed
+562ghjDJHbvUu,654rigvdcsn,2022-06-21,Neo,74.89,confirmed,GMX,Unknown,confirmed
+838wQcPAGQ0xy,654rigvdcsn,2022-02-13,Monero,85.42,confirmed,Gnosis,Unknown,confirmed
+822a1mRUOvLPi,654rigvdcsn,2022-03-18,Compound,109.35,confirmed,Gnosis,Unknown,confirmed
+771NVHV6Sn2Ks,654rigvdcsn,2022-05-12,Monero,75.16,confirmed,Kusama,Unknown,confirmed
+757HcuOCVWpjJ,609aufkgonu,2022-04-10,Neo,18.22,confirmed,LINK,Unknown,confirmed
+93536zhNAVlzj,609aufkgonu,2022-03-16,Illuvium,47.5,confirmed,Gnosis,Unknown,confirmed
+868Yv4IWFogwk,609aufkgonu,2022-01-15,GMX,83.95,confirmed,GateToken,Unknown,confirmed
+552KZ4SoOxrpF,609aufkgonu,2022-05-30,LINK,98.5,confirmed,Compound,Unknown,confirmed
+975XB0YRUhIIO,609aufkgonu,2022-02-08,GMX,105.83,confirmed,Neo,Unknown,confirmed
+515hGm0Dk2UBG,609aufkgonu,2022-05-20,IOTA,50.7,confirmed,Ethereum Classic,Unknown,confirmed
+581j84OXWBHRa,609aufkgonu,2022-04-30,Gnosis,36.86,confirmed,LINK,Unknown,confirmed
+620zIreNfNVSv,609aufkgonu,2022-06-08,Monero,18.9,confirmed,Solana,Unknown,confirmed
+710MHBVVybLws,701qxlmcmci,2022-06-20,Compound,107.61,confirmed,Monero,Unknown,confirmed
+857VxLjIRmdho,446awawpjpn,2022-03-09,Neo,77.58,confirmed,GMX,Unknown,confirmed
+734X9R5WLfhS5,918pzynhwvk,2022-01-16,Gnosis,107.64,confirmed,IOTA,Unknown,confirmed
+608GbaWFImKkW,918pzynhwvk,2022-03-12,IOTA,18.46,confirmed,GateToken,Unknown,confirmed
+58370dn6JHSox,918pzynhwvk,2022-05-20,Illuvium,62.01,confirmed,Bitcoin SV,Unknown,confirmed
+967DgpendlFPd,918pzynhwvk,2022-05-08,Solana,180.47,confirmed,GateToken,Unknown,confirmed
+566Mp1M3pSq9d,918pzynhwvk,2022-01-09,Solana,174.29,confirmed,Gnosis,Unknown,confirmed
+7608dxHsfjU7k,918pzynhwvk,2022-04-03,Compound,38.09,confirmed,Kusama,Unknown,confirmed
+837BQMruau7A3,918pzynhwvk,2022-06-21,Kusama,144.68,confirmed,Litecoin,Unknown,confirmed
+7281WdGdFNecP,918pzynhwvk,2022-01-28,Ethereum Classic,76.44,confirmed,Bitcoin SV,Unknown,pending
+538R06nTKYoHS,918pzynhwvk,2022-05-08,Ethereum Classic,137.3,declined,Monero,Unknown,declined
+588EdE0ppJfKJ,918pzynhwvk,2022-02-02,Neo,94.21,confirmed,LINK,Unknown,confirmed
+620m8Zqn4scYF,918pzynhwvk,2022-03-30,Illuvium,101.72,confirmed,Bitcoin SV,Unknown,confirmed
+984Y36AC8FmtV,918pzynhwvk,2022-03-25,Kusama,163.38,confirmed,Gnosis,Unknown,confirmed
+712aOiPjCkwRz,918pzynhwvk,2022-05-28,Solana,166.05,confirmed,Bitcoin SV,Unknown,confirmed
+799NxPJ90OFlA,918pzynhwvk,2022-04-14,Monero,16.16,confirmed,GMX,Unknown,confirmed
+764F6Rx3Wg2S6,482xubxacjd,2022-02-04,Avalanche,135.88,declined,Kusama,Unknown,declined
+881yytCLSY1UM,482xubxacjd,2022-06-14,Monero,87.42,confirmed,Illuvium,Unknown,confirmed
+930fIeHiDrJkx,482xubxacjd,2022-04-28,Kusama,111.68,confirmed,Litecoin,Unknown,confirmed
+446MAhWQuCJWP,482xubxacjd,2022-01-19,LINK,196.4,confirmed,Neo,Unknown,confirmed
+933EzrLbpue8k,482xubxacjd,2022-02-20,Solana,67.08,confirmed,Avalanche,Unknown,confirmed
+466CgTpdq3J3R,482xubxacjd,2022-03-31,GMX,70.37,confirmed,Neo,Unknown,confirmed
+73711Jvdr4iEp,482xubxacjd,2022-05-05,IOTA,85.38,confirmed,Litecoin,Unknown,confirmed
+802W3p2bofxNC,616ynxhvhbc,2022-01-08,Kusama,196.16,confirmed,Neo,Unknown,confirmed
+4996fRNntLGqh,616ynxhvhbc,2022-05-22,Gnosis,40.06,confirmed,IOTA,Unknown,confirmed
+739vXoBopirTr,616ynxhvhbc,2022-04-17,Solana,100.0,confirmed,Bitcoin SV,Unknown,pending
+619zRr50bIgJt,616ynxhvhbc,2022-01-15,Neo,44.17,confirmed,Illuvium,Unknown,confirmed
+957KLyl4DOIpO,616ynxhvhbc,2022-03-15,Bitcoin SV,103.76,confirmed,Solana,Unknown,pending
+573CzvyvJh1G7,616ynxhvhbc,2022-06-26,Solana,35.91,confirmed,GMX,Unknown,confirmed
+929yp3B53yXHc,616ynxhvhbc,2022-03-22,Avalanche,50.26,pending,Litecoin,Unknown,pending
+7422PIR9hf0xn,616ynxhvhbc,2022-06-09,Illuvium,40.99,confirmed,Gnosis,Unknown,confirmed
+559SXiOMyFxXy,616ynxhvhbc,2022-05-06,Ethereum Classic,22.14,confirmed,Monero,Unknown,confirmed
+934qsbpo6RdhV,616ynxhvhbc,2022-05-23,Monero,91.68,confirmed,Avalanche,Unknown,confirmed
+904JlW0zo0dLz,616ynxhvhbc,2022-04-13,Gnosis,78.69,confirmed,Monero,Unknown,confirmed
+815JdE8w8DUQI,616ynxhvhbc,2022-04-23,Kusama,55.98,confirmed,Avalanche,Unknown,confirmed
+733uJU84jRhHv,616ynxhvhbc,2022-01-25,Solana,120.45,confirmed,IOTA,Unknown,confirmed
+643AVJsXHFtH4,616ynxhvhbc,2022-01-03,Compound,68.3,confirmed,Solana,Unknown,confirmed
+936P97Fo5LiUS,616ynxhvhbc,2022-03-26,GMX,51.54,confirmed,Solana,Unknown,pending
+896LMkZLZz90q,616ynxhvhbc,2022-03-09,Kusama,93.22,pending,Neo,Unknown,pending
+685OkXoVSmGDT,616ynxhvhbc,2022-01-26,Monero,72.28,confirmed,Neo,Unknown,confirmed
+559ncaA3YKePS,616ynxhvhbc,2022-06-15,GMX,104.02,pending,Ethereum Classic,Unknown,pending
+861etw9KKt0BJ,616ynxhvhbc,2022-01-03,Bitcoin SV,144.24,confirmed,Neo,Unknown,confirmed
+861KoifkszdRX,616ynxhvhbc,2022-02-28,Neo,95.56,confirmed,Compound,Unknown,confirmed
+639smKku8OJnx,896dzrbuqhq,2022-01-23,Ethereum Classic,112.07,confirmed,LINK,Unknown,confirmed
+800xgu9YsO5Nj,896dzrbuqhq,2022-05-24,Bitcoin SV,110.18,confirmed,Illuvium,Unknown,confirmed
+562UDcuICovON,896dzrbuqhq,2022-06-23,Monero,9.27,confirmed,Litecoin,Unknown,confirmed
+886lHBM8tq8F6,896dzrbuqhq,2022-01-03,IOTA,121.64,confirmed,Ethereum Classic,Unknown,confirmed
+495qbP9MBS209,896dzrbuqhq,2022-02-12,GateToken,123.83,declined,Ethereum Classic,Unknown,declined
+792mWZJUfAR7b,896dzrbuqhq,2022-01-23,Monero,30.61,confirmed,LINK,Unknown,confirmed
+531c6i9QS3kDv,896dzrbuqhq,2022-06-11,Compound,182.18,confirmed,Solana,Unknown,confirmed
+6033s8BmDnIbk,896dzrbuqhq,2022-02-16,Litecoin,7.59,confirmed,Neo,Unknown,confirmed
+7133AIHtoh3XG,774fjegocre,2022-03-30,GateToken,140.02,confirmed,Gnosis,Unknown,confirmed
+551uXTpLK3Hv1,428gikzdszx,2022-04-12,Neo,73.59,confirmed,Ethereum Classic,Unknown,pending
+967h4JLMT16Wu,523adbbfene,2022-05-04,Solana,72.2,pending,Kusama,Unknown,pending
+833Vx9rIpuOef,523adbbfene,2022-04-01,Litecoin,51.66,declined,Kusama,Unknown,declined
+538H31XGgI71N,523adbbfene,2022-01-07,Ethereum Classic,125.45,confirmed,Monero,Unknown,confirmed
+804WiVfkjkfAw,523adbbfene,2022-05-09,Bitcoin SV,40.27,confirmed,Avalanche,Unknown,confirmed
+701UXLSikMhf4,523adbbfene,2022-03-05,Neo,68.23,confirmed,Kusama,Unknown,pending
+492Aqg9X5TQBQ,523adbbfene,2022-04-07,Avalanche,49.77,confirmed,Kusama,Unknown,confirmed
+894VYDdJcUIhQ,523adbbfene,2022-01-03,Avalanche,54.74,confirmed,Compound,Unknown,confirmed
+511v8jn36t7lW,523adbbfene,2022-04-07,Compound,172.72,confirmed,Bitcoin SV,Unknown,confirmed
+676VfRwzEGsKB,523adbbfene,2022-03-02,Litecoin,71.77,confirmed,Gnosis,Unknown,confirmed
+564OKfG0s3CYE,523adbbfene,2022-02-05,Gnosis,14.1,confirmed,Kusama,Unknown,confirmed
+836houFQ7e2Bk,523adbbfene,2022-01-06,IOTA,35.24,confirmed,Illuvium,Unknown,confirmed
+869QhbpYeToKs,738trvbstqf,2022-05-15,GMX,52.5,confirmed,GateToken,Unknown,confirmed
+664hqbMUS1fyb,738trvbstqf,2022-05-18,Bitcoin SV,112.81,confirmed,Solana,Unknown,confirmed
+584JX68raGyTr,738trvbstqf,2022-06-23,Litecoin,15.23,confirmed,Ethereum Classic,Unknown,confirmed
+579hbAmMfw5Fb,738trvbstqf,2022-04-06,Kusama,85.32,confirmed,GMX,Unknown,confirmed
+914IyvayDUxTs,738trvbstqf,2022-02-06,Neo,64.24,confirmed,Bitcoin SV,Unknown,confirmed
+604Lfi5qy6HBn,738trvbstqf,2022-03-16,Illuvium,65.95,confirmed,Kusama,Unknown,confirmed
+596PR1filiJcf,738trvbstqf,2022-01-18,Compound,55.37,confirmed,Illuvium,Unknown,confirmed
+725LwEReUJwJp,671iqovcymh,2022-03-02,Solana,70.12,confirmed,Monero,Unknown,confirmed
+839Eo9eHf4i9p,671iqovcymh,2022-03-02,Compound,145.95,confirmed,Avalanche,Unknown,confirmed
+557GMw5jWJrbn,671iqovcymh,2022-03-09,Kusama,22.92,confirmed,Ethereum Classic,Unknown,confirmed
+828yTopd8kEMC,671iqovcymh,2022-04-09,LINK,69.24,confirmed,Avalanche,Unknown,confirmed
+6635zPG3WTyWr,671iqovcymh,2022-01-11,IOTA,14.42,confirmed,Neo,Unknown,confirmed
+992ucSCCtGBWm,671iqovcymh,2022-01-02,Ethereum Classic,138.33,confirmed,GMX,Unknown,confirmed
+499NAw9wMyy07,671iqovcymh,2022-02-22,Compound,85.51,pending,Kusama,Unknown,pending
+883kmecYKn4sl,735bggdzncw,2022-06-08,Compound,61.61,confirmed,Solana,Unknown,declined
+461THbF3G2bzy,735bggdzncw,2022-05-04,Avalanche,143.59,confirmed,Monero,Unknown,confirmed
+950nlQCc64AEf,735bggdzncw,2022-01-22,Litecoin,10.96,confirmed,Compound,Unknown,confirmed
+854OXGfYgG9FA,735bggdzncw,2022-01-10,Compound,182.56,confirmed,Gnosis,Unknown,confirmed
+708r4TtluGMhM,735bggdzncw,2022-05-05,Neo,102.79,confirmed,Kusama,Unknown,confirmed
+669dzdZ1ExdlU,735bggdzncw,2022-04-11,Monero,30.0,confirmed,Solana,Unknown,confirmed
+673F3lyJhNBC6,685jezjkksw,2022-05-20,GateToken,135.84,confirmed,Solana,Unknown,declined
+768jT7IizAslQ,441ppsvjype,2022-01-04,Bitcoin SV,67.84,confirmed,Avalanche,Unknown,confirmed
+977xZ58ifs4z0,441ppsvjype,2022-01-08,Monero,15.01,confirmed,Litecoin,Unknown,confirmed
+779PCST9KxDNn,441ppsvjype,2022-03-03,Litecoin,95.42,confirmed,IOTA,Unknown,confirmed
+748RKj60R7bbv,441ppsvjype,2022-05-28,Ethereum Classic,121.03,declined,Illuvium,Unknown,declined
+730WUN0g2LbOC,441ppsvjype,2022-06-01,Neo,76.33,confirmed,Kusama,Unknown,pending
+986WHcdGMlqpc,441ppsvjype,2022-05-05,LINK,101.27,confirmed,GateToken,Unknown,pending
+8246JZ9M5Jmxx,441ppsvjype,2022-03-06,Compound,160.56,confirmed,GateToken,Unknown,confirmed
+729lctWzudUFP,583tuiustty,2022-03-04,Illuvium,106.48,confirmed,Ethereum Classic,Unknown,confirmed
+9553PHBwZl2GA,583tuiustty,2022-06-27,Bitcoin SV,138.54,confirmed,Avalanche,Unknown,confirmed
+751XbdbpwkFsE,583tuiustty,2022-02-07,IOTA,113.05,confirmed,GMX,Unknown,confirmed
+671TXBwXdnZfe,583tuiustty,2022-05-28,Litecoin,44.6,confirmed,Gnosis,Unknown,confirmed
+721yMfw0GzXKs,583tuiustty,2022-06-06,Litecoin,98.24,confirmed,IOTA,Unknown,confirmed
+7053noUIPv6AP,583tuiustty,2022-04-30,Bitcoin SV,38.34,confirmed,GMX,Unknown,confirmed
+626B62ikxK7tP,583tuiustty,2022-01-21,Solana,45.58,declined,Ethereum Classic,Unknown,declined
+769himiLnx44e,583tuiustty,2022-06-16,Bitcoin SV,84.75,confirmed,IOTA,Unknown,confirmed
+978qNrbVlQJBY,583tuiustty,2022-06-06,Compound,191.9,pending,LINK,Unknown,pending
+8463YltBkXZdD,583tuiustty,2022-05-30,Bitcoin SV,56.06,confirmed,Solana,Unknown,confirmed
+871q6SoVRmr6F,583tuiustty,2022-03-26,Litecoin,27.24,confirmed,Neo,Unknown,confirmed
+849CNLfIebGWt,583tuiustty,2022-04-24,Avalanche,39.05,confirmed,Solana,Unknown,confirmed
+66074xKsbHekX,583tuiustty,2022-04-23,Monero,14.13,pending,Kusama,Unknown,pending
+941nKvvTGDJdF,583tuiustty,2022-03-11,IOTA,111.31,confirmed,Ethereum Classic,Unknown,confirmed
+948ZbZHEYEsta,688ktjgllhe,2022-01-28,Compound,82.49,confirmed,GMX,Unknown,confirmed
+585ziUj39jr7x,688ktjgllhe,2022-06-05,Monero,22.12,confirmed,IOTA,Unknown,confirmed
+550kcgqeVR8qZ,688ktjgllhe,2022-01-13,Illuvium,46.28,confirmed,Gnosis,Unknown,confirmed
+47126Lzwdadyk,688ktjgllhe,2022-01-25,LINK,146.5,declined,Gnosis,Unknown,declined
+596XIexY0B2bb,688ktjgllhe,2022-05-02,Ethereum Classic,144.72,confirmed,Bitcoin SV,Unknown,pending
+960zHAgHgd6xF,688ktjgllhe,2022-03-19,Avalanche,64.58,confirmed,Monero,Unknown,confirmed
+845wKc5gtjf38,688ktjgllhe,2022-05-21,Ethereum Classic,90.51,confirmed,Gnosis,Unknown,confirmed
+993ZqWQbEj4cX,893ndnkbdxo,2022-02-06,IOTA,118.1,confirmed,GMX,Unknown,confirmed
+513mbqQaI2EJd,566rjvjazce,2022-04-24,Illuvium,104.2,confirmed,Bitcoin SV,Unknown,confirmed
+49164CskonJjj,566rjvjazce,2022-03-06,Bitcoin SV,19.95,declined,Compound,Unknown,declined
+794zbNUke1car,566rjvjazce,2022-04-21,Monero,20.1,confirmed,Bitcoin SV,Unknown,confirmed
+683Jqb4TmmJ1f,566rjvjazce,2022-03-17,Monero,34.11,confirmed,Gnosis,Unknown,confirmed
+823o5eAxvrDWU,566rjvjazce,2022-04-30,Ethereum Classic,136.29,pending,Neo,Unknown,pending
+763Nu9lNitmUW,566rjvjazce,2022-06-28,Neo,51.16,declined,Ethereum Classic,Unknown,declined
+837bIjEFRhzch,566rjvjazce,2022-03-09,Ethereum Classic,76.55,confirmed,Monero,Unknown,declined
+783cdpUYp47c0,566rjvjazce,2022-02-27,Kusama,150.27,confirmed,Monero,Unknown,confirmed
+880eT86Pug82z,566rjvjazce,2022-04-08,Bitcoin SV,83.34,confirmed,Neo,Unknown,confirmed
+552kM3fS9MWfu,566rjvjazce,2022-05-16,Kusama,118.76,confirmed,Ethereum Classic,Unknown,confirmed
+446PHrg1jWgci,566rjvjazce,2022-01-17,Solana,67.65,confirmed,Illuvium,Unknown,confirmed
+502dYHJ1Aew2h,566rjvjazce,2022-03-01,Kusama,58.91,confirmed,Solana,Unknown,confirmed
+679jeQ7zkWVoK,566rjvjazce,2022-03-24,Litecoin,67.26,confirmed,Ethereum Classic,Unknown,confirmed
+6714648LMbeM0,566rjvjazce,2022-03-27,Bitcoin SV,99.45,confirmed,Neo,Unknown,confirmed
+648tCb9lcQdkl,566rjvjazce,2022-05-31,GMX,34.09,confirmed,Neo,Unknown,confirmed
+576wR4HNY5HCY,566rjvjazce,2022-03-13,LINK,123.69,confirmed,Kusama,Unknown,confirmed
+8411cFzhwdFoT,566rjvjazce,2022-02-17,Illuvium,94.89,confirmed,LINK,Unknown,confirmed
+7916VtSEY4jQD,566rjvjazce,2022-01-24,Ethereum Classic,77.91,confirmed,LINK,Unknown,confirmed
+485Kf7JTjk4kN,785kvvmrjxb,2022-05-31,Compound,189.28,confirmed,Bitcoin SV,Unknown,pending
+685TLeve00Dll,785kvvmrjxb,2022-06-22,Bitcoin SV,104.43,confirmed,Illuvium,Unknown,confirmed
+813bcmkV7JgQp,785kvvmrjxb,2022-06-14,Ethereum Classic,139.65,confirmed,Solana,Unknown,confirmed
+558s8NTWAb5gr,785kvvmrjxb,2022-01-15,Bitcoin SV,147.99,confirmed,LINK,Unknown,declined
+631mO39ACFcDi,785kvvmrjxb,2022-05-15,Monero,99.22,confirmed,GMX,Unknown,confirmed
+671lmypuuDGP1,785kvvmrjxb,2022-01-31,IOTA,111.76,confirmed,Compound,Unknown,confirmed
+857re9UrI2xwf,785kvvmrjxb,2022-04-03,Compound,92.21,confirmed,Ethereum Classic,Unknown,confirmed
+916SI7YcqQbyO,785kvvmrjxb,2022-02-20,GMX,89.46,confirmed,Illuvium,Unknown,confirmed
+8409Foz7cEDyD,785kvvmrjxb,2022-06-04,GMX,98.81,confirmed,Illuvium,Unknown,confirmed
+954pFjfW5flVk,785kvvmrjxb,2022-03-17,Avalanche,133.82,pending,LINK,Unknown,pending
+609UFWOBFufAh,785kvvmrjxb,2022-05-30,Illuvium,58.93,confirmed,GMX,Unknown,confirmed
+872SIv6r7QOUH,785kvvmrjxb,2022-04-08,Solana,122.68,confirmed,IOTA,Unknown,confirmed
+528ryUczSokqG,785kvvmrjxb,2022-04-26,Compound,73.32,confirmed,GateToken,Unknown,confirmed
+956HXUXkUEIEk,785kvvmrjxb,2022-05-04,Gnosis,25.26,confirmed,Solana,Unknown,confirmed
+908xD8eDN2eHy,578sghmgaky,2022-05-27,Gnosis,68.9,confirmed,Illuvium,Unknown,confirmed
+6693yZdvVobXo,916cvqhoqxa,2022-02-22,Monero,105.82,confirmed,Compound,Unknown,confirmed
+974VjpeUdxMVn,814pvwvbsnq,2022-01-18,Solana,28.48,pending,Ethereum Classic,Unknown,pending
+528J9hsumKoq9,814pvwvbsnq,2022-03-19,Bitcoin SV,71.87,confirmed,Gnosis,Unknown,confirmed
+8867ZKfYbMnES,814pvwvbsnq,2022-02-18,Kusama,175.58,confirmed,Ethereum Classic,Unknown,confirmed
+991cHNvRMkmGk,814pvwvbsnq,2022-03-03,Avalanche,97.73,confirmed,Litecoin,Unknown,confirmed
+939DeemYvq56l,814pvwvbsnq,2022-04-25,Gnosis,44.86,confirmed,GateToken,Unknown,confirmed
+931ONbAqKF4gt,643ddutmkkc,2022-04-02,Gnosis,100.89,confirmed,Solana,Unknown,confirmed
+9026H0B5VZQN5,933exdfvwtn,2022-06-06,Monero,103.8,confirmed,Ethereum Classic,Unknown,confirmed
+822ot7GmaAE9n,933exdfvwtn,2022-03-09,Ethereum Classic,83.15,confirmed,Monero,Unknown,confirmed
+588DFp1NIBsfX,933exdfvwtn,2022-04-17,Ethereum Classic,20.47,confirmed,Solana,Unknown,pending
+4871IJeTvkY6Y,933exdfvwtn,2022-04-04,Kusama,193.03,declined,LINK,Unknown,declined
+774sog7S5cC8H,933exdfvwtn,2022-03-18,Bitcoin SV,58.09,confirmed,Litecoin,Unknown,confirmed
+767gNgSBOB4ax,751qxvifxlk,2022-06-07,Monero,15.78,confirmed,Solana,Unknown,confirmed
+974Lj4vFRIFgu,478uzgadlaw,2022-03-15,Solana,159.53,confirmed,IOTA,Unknown,confirmed
+847mV8f6IQFEW,516meitrnio,2022-04-15,Ethereum Classic,45.31,confirmed,Solana,Unknown,confirmed
+853sXkz15SAp9,977krvjgxoy,2022-04-10,Compound,189.66,confirmed,Neo,Unknown,confirmed
+722HzOaArwMDd,977krvjgxoy,2022-01-21,Solana,96.99,confirmed,Ethereum Classic,Unknown,pending
+715YPO5RIxGli,977krvjgxoy,2022-06-27,Avalanche,36.49,confirmed,GateToken,Unknown,confirmed
+732B7qS0dsiKJ,977krvjgxoy,2022-05-29,Litecoin,64.53,pending,GMX,Unknown,pending
+455Ruw3SrKyvX,977krvjgxoy,2022-02-24,Ethereum Classic,97.82,pending,Kusama,Unknown,pending
+798fVmjuRG7nx,977krvjgxoy,2022-01-12,LINK,156.94,confirmed,Gnosis,Unknown,confirmed
+464Itu5ZqHlGK,977krvjgxoy,2022-01-04,Kusama,168.07,confirmed,Bitcoin SV,Unknown,confirmed
+890p2x7vUWk6o,436gdaabgaa,2022-05-06,GMX,92.2,confirmed,Avalanche,Unknown,confirmed
+81662PIPwyzbG,436gdaabgaa,2022-02-06,Compound,43.72,confirmed,Illuvium,Unknown,pending
+452gLWRZYmtf1,436gdaabgaa,2022-04-17,Bitcoin SV,127.39,confirmed,Compound,Unknown,confirmed
+966FyP4FozbGk,436gdaabgaa,2022-05-12,Neo,18.17,pending,Kusama,Unknown,pending
+5698nuboxjvnD,436gdaabgaa,2022-05-30,Ethereum Classic,10.72,pending,IOTA,Unknown,pending
+552rnyQgXc6ib,436gdaabgaa,2022-05-14,Litecoin,31.13,confirmed,LINK,Unknown,confirmed
+878DQJIe0XONK,436gdaabgaa,2022-06-03,IOTA,12.76,confirmed,Litecoin,Unknown,pending
+630nHAclt1fhp,436gdaabgaa,2022-02-24,LINK,82.96,confirmed,Litecoin,Unknown,confirmed
+928tImbkWEbK7,436gdaabgaa,2022-04-28,Kusama,16.06,confirmed,LINK,Unknown,pending
+902SZu6jzknYj,436gdaabgaa,2022-06-25,Bitcoin SV,148.03,pending,Compound,Unknown,pending
+560ufSAbeX5JE,436gdaabgaa,2022-03-27,LINK,31.42,pending,IOTA,Unknown,pending
+943LfqYWiSwJE,436gdaabgaa,2022-04-08,Compound,107.77,confirmed,Illuvium,Unknown,confirmed
+949RqWcblHcyj,436gdaabgaa,2022-03-02,Gnosis,40.76,confirmed,Monero,Unknown,confirmed
+7616HZ7fY81fc,436gdaabgaa,2022-02-18,GMX,79.99,confirmed,Gnosis,Unknown,pending
+4999Y6qoz9ail,694tbicndof,2022-05-03,Kusama,172.41,declined,Illuvium,Unknown,declined
+482rbJJlOuQ9d,694tbicndof,2022-04-30,GateToken,34.72,confirmed,Avalanche,Unknown,confirmed
+982mOUVfUMhcx,694tbicndof,2022-03-05,Ethereum Classic,61.44,confirmed,Illuvium,Unknown,confirmed
+631GkJQLV4Ggz,694tbicndof,2022-05-13,IOTA,28.31,declined,Illuvium,Unknown,declined
+654sDjvtC2bL7,694tbicndof,2022-04-05,Monero,20.41,confirmed,Solana,Unknown,confirmed
+973K0phicNyCf,694tbicndof,2022-06-26,Bitcoin SV,134.79,confirmed,Solana,Unknown,pending
+4620TXUBx9eiY,694tbicndof,2022-04-02,Bitcoin SV,76.76,confirmed,Avalanche,Unknown,confirmed
+623W7vk1o8PNB,694tbicndof,2022-04-12,GMX,71.63,pending,Avalanche,Unknown,pending
+446fTfOxJKZuY,694tbicndof,2022-06-28,Bitcoin SV,101.47,confirmed,Ethereum Classic,Unknown,confirmed
+710qjelWAoC7B,694tbicndof,2022-01-07,Bitcoin SV,54.94,pending,Monero,Unknown,pending
+494NrwMCzeeL9,694tbicndof,2022-05-10,Gnosis,91.1,confirmed,Illuvium,Unknown,confirmed
+540Uu9oHMpZmM,694tbicndof,2022-05-26,IOTA,26.73,confirmed,Bitcoin SV,Unknown,confirmed
+873fdXiei9sLF,694tbicndof,2022-04-29,Kusama,203.53,confirmed,IOTA,Unknown,confirmed
+7001kajUNOboR,694tbicndof,2022-05-07,Illuvium,36.2,pending,Compound,Unknown,pending
+622PlHS0lYGh5,694tbicndof,2022-03-23,Neo,55.92,confirmed,Monero,Unknown,confirmed
+505CQV1kyPkMz,694tbicndof,2022-04-07,Solana,74.2,confirmed,Bitcoin SV,Unknown,confirmed
+903lv53sFPzgi,557bqsytdqh,2022-03-11,Gnosis,11.13,confirmed,Ethereum Classic,Unknown,confirmed
+949qyZMqkGHaw,557bqsytdqh,2022-02-21,Bitcoin SV,196.36,confirmed,Illuvium,Unknown,confirmed
+689CQbA41rMhT,557bqsytdqh,2022-02-20,GMX,41.56,confirmed,Illuvium,Unknown,confirmed
+693vI9STF9mE9,557bqsytdqh,2022-06-05,Compound,159.25,confirmed,LINK,Unknown,confirmed
+756sSSb0syrso,557bqsytdqh,2022-04-17,Solana,108.53,confirmed,GMX,Unknown,confirmed
+8548iXIttVKgc,557bqsytdqh,2022-03-02,Compound,104.43,confirmed,Illuvium,Unknown,pending
+520BUtOTHDY5O,557bqsytdqh,2022-03-20,Litecoin,64.85,confirmed,Illuvium,Unknown,confirmed
+909AdFisuWCn0,850muoapllj,2022-06-21,Gnosis,105.61,confirmed,Bitcoin SV,Unknown,confirmed
+950yrGLftigIc,850muoapllj,2022-05-14,Gnosis,37.65,confirmed,Illuvium,Unknown,confirmed
+729kVvVrC2UPY,850muoapllj,2022-05-01,Compound,109.02,confirmed,Bitcoin SV,Unknown,pending
+736AuSZ5fViHQ,850muoapllj,2022-03-07,Avalanche,16.25,confirmed,Litecoin,Unknown,confirmed
+582fMonotkNBY,850muoapllj,2022-02-26,Solana,4.5,declined,LINK,Unknown,declined
+608Id0eUfFe1X,889nmhswbur,2022-02-27,Bitcoin SV,174.09,confirmed,Ethereum Classic,Unknown,pending
+869Df211MGShe,947gtgaxykb,2022-02-06,GMX,30.85,confirmed,Kusama,Unknown,confirmed
+584dhRtJaDKbN,452seqozcts,2022-05-11,Avalanche,15.14,confirmed,Neo,Unknown,confirmed
+530pJi3O5vAGD,950yjflmzno,2022-04-25,Gnosis,113.26,confirmed,GateToken,Unknown,confirmed
+643HawouKQhSX,950yjflmzno,2022-04-10,Kusama,5.66,confirmed,Bitcoin SV,Unknown,confirmed
+936rhPXpXat32,950yjflmzno,2022-01-30,Ethereum Classic,28.59,confirmed,Illuvium,Unknown,confirmed
+755K0qUWzZIhn,950yjflmzno,2022-04-12,Bitcoin SV,58.03,confirmed,Solana,Unknown,confirmed
+853vIjgCBo5Fz,950yjflmzno,2022-04-24,GMX,41.86,confirmed,Litecoin,Unknown,confirmed
+621HWGlCMqqZ8,950yjflmzno,2022-02-25,Gnosis,107.32,confirmed,Illuvium,Unknown,confirmed
+999eq6GAo2VYb,950yjflmzno,2022-03-20,IOTA,97.33,confirmed,Neo,Unknown,confirmed
+908PoU7V1RuWW,950yjflmzno,2022-06-27,Bitcoin SV,50.71,confirmed,GateToken,Unknown,confirmed
+547KZS0yOzV9M,950yjflmzno,2022-03-02,Avalanche,115.73,confirmed,Neo,Unknown,confirmed
+487AQMVaKWCmb,950yjflmzno,2022-06-24,Avalanche,67.95,confirmed,Monero,Unknown,confirmed
+606Tr45vUwwVX,950yjflmzno,2022-02-23,Kusama,82.76,confirmed,Solana,Unknown,confirmed
+777AmTsKGfT4A,950yjflmzno,2022-02-02,Ethereum Classic,79.92,confirmed,Avalanche,Unknown,confirmed
+444eqMyfdcMhe,950yjflmzno,2022-03-29,Ethereum Classic,70.36,confirmed,Gnosis,Unknown,confirmed
+757da4tARl0OW,367zdvdzdrb,2022-05-04,Litecoin,11.35,confirmed,Ethereum Classic,Unknown,confirmed
+658AzvcbTj6m7,586mbicawnp,2022-05-27,GMX,62.17,confirmed,Kusama,Unknown,confirmed
+828brLME6Dpa5,586mbicawnp,2022-03-30,Illuvium,30.02,confirmed,Compound,Unknown,confirmed
+491FzpeRaQmD1,586mbicawnp,2022-04-05,IOTA,129.09,declined,Solana,Unknown,declined
+906YIAWxzc9Er,586mbicawnp,2022-06-04,LINK,6.46,confirmed,Bitcoin SV,Unknown,confirmed
+778r74oUl4B9f,586mbicawnp,2022-04-01,Solana,128.28,confirmed,Bitcoin SV,Unknown,confirmed
+515aJcY9zwFUk,586mbicawnp,2022-06-24,GMX,76.16,confirmed,Monero,Unknown,confirmed
+728KY1IKAX46l,586mbicawnp,2022-06-10,Avalanche,77.57,confirmed,LINK,Unknown,confirmed
+554usi1mOiVV6,586mbicawnp,2022-01-16,Litecoin,82.65,confirmed,GateToken,Unknown,confirmed
+835EfOL8qLY0y,586mbicawnp,2022-05-22,Kusama,172.19,confirmed,Gnosis,Unknown,confirmed
+463rb2mH0Fk9o,586mbicawnp,2022-06-15,GMX,59.72,confirmed,Avalanche,Unknown,confirmed
+790INb01S4Zyu,586mbicawnp,2022-04-18,Monero,54.0,confirmed,Neo,Unknown,confirmed
+639D8copCBjiV,586mbicawnp,2022-02-09,Ethereum Classic,64.37,confirmed,GateToken,Unknown,confirmed
+516tDRzz8giqX,586mbicawnp,2022-02-03,Ethereum Classic,126.6,confirmed,Compound,Unknown,confirmed
+694P3rVzH2vrX,586mbicawnp,2022-03-28,LINK,58.72,confirmed,Monero,Unknown,confirmed
+677vYygNV46Xh,586mbicawnp,2022-04-12,LINK,7.84,confirmed,Kusama,Unknown,confirmed
+8027ViNLhLTia,586mbicawnp,2022-03-04,Gnosis,7.92,confirmed,GMX,Unknown,confirmed
+927irWpmnGs3d,586mbicawnp,2022-04-25,GMX,52.67,confirmed,Kusama,Unknown,confirmed
+865NgFIDCaq8F,586mbicawnp,2022-03-12,GMX,41.5,confirmed,Illuvium,Unknown,confirmed
+850CfCUkth8my,378dhhqunqc,2022-03-20,Illuvium,78.77,declined,Gnosis,Unknown,declined
+537U73uf1ja8Z,428zfdyglea,2022-03-15,Avalanche,134.41,confirmed,Compound,Unknown,confirmed
+480d1vXIpvvkc,428zfdyglea,2022-03-09,Illuvium,103.86,confirmed,Gnosis,Unknown,confirmed
+832l6ik4Vy4sx,428zfdyglea,2022-05-23,Ethereum Classic,81.98,confirmed,Litecoin,Unknown,confirmed
+743pHG7O32iHn,428zfdyglea,2022-03-19,LINK,15.06,confirmed,Ethereum Classic,Unknown,confirmed
+906xsdSTl5CA6,428zfdyglea,2022-04-03,GMX,51.11,pending,Litecoin,Unknown,pending
+7896rQHAFwc1h,428zfdyglea,2022-03-18,GateToken,107.59,declined,IOTA,Unknown,declined
+6447SDQT66nZH,428zfdyglea,2022-03-12,Kusama,186.09,confirmed,Neo,Unknown,confirmed
+940F5FuM8iJHq,428zfdyglea,2022-05-20,LINK,144.27,confirmed,Ethereum Classic,Unknown,confirmed
+935zyV3wL9PvU,428zfdyglea,2022-04-16,Monero,95.88,confirmed,Litecoin,Unknown,confirmed
